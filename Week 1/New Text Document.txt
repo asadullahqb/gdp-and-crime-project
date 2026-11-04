@@ -1,0 +1,249 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Note: you may need to restart the kernel to use updated packages.\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "ERROR: Could not find a version that satisfies the requirement os (from versions: none)\n",
+      "ERROR: No matching distribution found for os\n",
+      "\n",
+      "[notice] A new release of pip is available: 24.0 -> 24.3.1\n",
+      "[notice] To update, run: python.exe -m pip install --upgrade pip\n"
+     ]
+    }
+   ],
+   "source": [
+    "pip install os pandas"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import os\n",
+    "import pandas as pd\n",
+    "\n",
+    "data_folder = 'data'\n",
+    "data_files = [f for f in os.listdir(data_folder) if f.endswith('.csv')]\n",
+    "data_dict = {}\n",
+    "\n",
+    "for file in data_files:\n",
+    "    file_path = os.path.join(data_folder, file)\n",
+    "    df_name = os.path.splitext(file)[0]\n",
+    "    data_dict[df_name] = pd.read_csv(file_path)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "birth_district_sex: (1401, 6)\n",
+      "crime_district: (19152, 6)\n",
+      "gdp_state_real_supply: (1904, 5)\n",
+      "hh_income_district: (318, 5)\n",
+      "population_district: (319200, 7)\n"
+     ]
+    }
+   ],
+   "source": [
+    "for df_name, df in data_dict.items():\n",
+    "    print(f\"{df_name}: {df.shape}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Head of birth_district_sex:\n",
+      "         date  state     district     sex    abs       rate\n",
+      "0  2020-01-01  Johor   Batu Pahat    both   6653  13.432263\n",
+      "1  2020-01-01  Johor   Batu Pahat  female   3236  13.846812\n",
+      "2  2020-01-01  Johor   Batu Pahat    male   3417  13.061927\n",
+      "3  2020-01-01  Johor  Johor Bahru    both  24675  14.419705\n",
+      "4  2020-01-01  Johor  Johor Bahru  female  11954  14.870009\n",
+      "\n",
+      "\n",
+      "Head of crime_district:\n",
+      "      state district category type        date  crimes\n",
+      "0  Malaysia      All  assault  all  2016-01-01   22327\n",
+      "1  Malaysia      All  assault  all  2017-01-01   21366\n",
+      "2  Malaysia      All  assault  all  2018-01-01   16902\n",
+      "3  Malaysia      All  assault  all  2019-01-01   16489\n",
+      "4  Malaysia      All  assault  all  2020-01-01   13279\n",
+      "\n",
+      "\n",
+      "Head of gdp_state_real_supply:\n",
+      "  series        date  state sector       value\n",
+      "0    abs  2015-01-01  Johor     p0  110002.221\n",
+      "1    abs  2015-01-01  Johor     p1   15610.314\n",
+      "2    abs  2015-01-01  Johor     p2     475.640\n",
+      "3    abs  2015-01-01  Johor     p3   32358.659\n",
+      "4    abs  2015-01-01  Johor     p4    7269.160\n",
+      "\n",
+      "\n",
+      "Head of hh_income_district:\n",
+      "   state     district        date  income_mean  income_median\n",
+      "0  Johor   Batu Pahat  2019-01-01         7392           6504\n",
+      "1  Johor   Batu Pahat  2022-01-01         7419           6347\n",
+      "2  Johor  Johor Bahru  2019-01-01         9315           7342\n",
+      "3  Johor  Johor Bahru  2022-01-01         9869           8232\n",
+      "4  Johor       Kluang  2019-01-01         5953           4933\n",
+      "\n",
+      "\n",
+      "Head of population_district:\n",
+      "   state    district        date   sex      age   ethnicity  population\n",
+      "0  Johor  Batu Pahat  2020-01-01  both  overall     overall       495.3\n",
+      "1  Johor  Batu Pahat  2020-01-01  both  overall  bumi_malay       311.3\n",
+      "2  Johor  Batu Pahat  2020-01-01  both  overall  bumi_other         5.1\n",
+      "3  Johor  Batu Pahat  2020-01-01  both  overall     chinese       140.1\n",
+      "4  Johor  Batu Pahat  2020-01-01  both  overall      indian         6.9\n",
+      "\n",
+      "\n"
+     ]
+    }
+   ],
+   "source": [
+    "for df_name, df in data_dict.items():\n",
+    "    print(f\"Head of {df_name}:\")\n",
+    "    print(df.head())\n",
+    "    print(\"\\n\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import re\n",
+    "\n",
+    "for df_name, df in data_dict.items():\n",
+    "    # Create a year column from the first date column found\n",
+    "    date_columns = [col for col in df.columns if re.search(r'\\d{4}-\\d{2}-\\d{2}', str(df[col].iloc[0]))]\n",
+    "    if date_columns:\n",
+    "        df['year'] = pd.to_datetime(df[date_columns[0]]).dt.year\n",
+    "    \n",
+    "    # Drop all date columns\n",
+    "    df.drop(columns=date_columns, inplace=True)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Head of birth_district_sex:\n",
+      "   state     district     sex    abs       rate  year\n",
+      "0  Johor   Batu Pahat    both   6653  13.432263  2020\n",
+      "1  Johor   Batu Pahat  female   3236  13.846812  2020\n",
+      "2  Johor   Batu Pahat    male   3417  13.061927  2020\n",
+      "3  Johor  Johor Bahru    both  24675  14.419705  2020\n",
+      "4  Johor  Johor Bahru  female  11954  14.870009  2020\n",
+      "\n",
+      "\n",
+      "Head of crime_district:\n",
+      "      state district category type  crimes  year\n",
+      "0  Malaysia      All  assault  all   22327  2016\n",
+      "1  Malaysia      All  assault  all   21366  2017\n",
+      "2  Malaysia      All  assault  all   16902  2018\n",
+      "3  Malaysia      All  assault  all   16489  2019\n",
+      "4  Malaysia      All  assault  all   13279  2020\n",
+      "\n",
+      "\n",
+      "Head of gdp_state_real_supply:\n",
+      "  series  state sector       value  year\n",
+      "0    abs  Johor     p0  110002.221  2015\n",
+      "1    abs  Johor     p1   15610.314  2015\n",
+      "2    abs  Johor     p2     475.640  2015\n",
+      "3    abs  Johor     p3   32358.659  2015\n",
+      "4    abs  Johor     p4    7269.160  2015\n",
+      "\n",
+      "\n",
+      "Head of hh_income_district:\n",
+      "   state     district  income_mean  income_median  year\n",
+      "0  Johor   Batu Pahat         7392           6504  2019\n",
+      "1  Johor   Batu Pahat         7419           6347  2022\n",
+      "2  Johor  Johor Bahru         9315           7342  2019\n",
+      "3  Johor  Johor Bahru         9869           8232  2022\n",
+      "4  Johor       Kluang         5953           4933  2019\n",
+      "\n",
+      "\n",
+      "Head of population_district:\n",
+      "   state    district   sex      age   ethnicity  population  year\n",
+      "0  Johor  Batu Pahat  both  overall     overall       495.3  2020\n",
+      "1  Johor  Batu Pahat  both  overall  bumi_malay       311.3  2020\n",
+      "2  Johor  Batu Pahat  both  overall  bumi_other         5.1  2020\n",
+      "3  Johor  Batu Pahat  both  overall     chinese       140.1  2020\n",
+      "4  Johor  Batu Pahat  both  overall      indian         6.9  2020\n",
+      "\n",
+      "\n"
+     ]
+    }
+   ],
+   "source": [
+    "for df_name, df in data_dict.items():\n",
+    "    print(f\"Head of {df_name}:\")\n",
+    "    print(df.head())\n",
+    "    print(\"\\n\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.2"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}

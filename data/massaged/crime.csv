@@ -1,0 +1,1561 @@
+district,year,state,crimes
+Alor Gajah,2015,Melaka,424
+Alor Gajah,2016,Melaka,436
+Alor Gajah,2017,Melaka,376
+Alor Gajah,2018,Melaka,334
+Alor Gajah,2019,Melaka,341
+Alor Gajah,2020,Melaka,265
+Alor Gajah,2021,Melaka,249
+Alor Gajah,2022,Melaka,259
+Alor Gajah,2023,Melaka,285
+Alor Gajah,2024,Melaka,212
+Ampang Jaya,2015,Selangor,3326
+Ampang Jaya,2016,Selangor,3104
+Ampang Jaya,2017,Selangor,2667
+Ampang Jaya,2018,Selangor,2399
+Ampang Jaya,2019,Selangor,2163
+Ampang Jaya,2020,Selangor,1899
+Ampang Jaya,2021,Selangor,1295
+Ampang Jaya,2022,Selangor,992
+Ampang Jaya,2023,Selangor,1174
+Ampang Jaya,2024,Selangor,598
+Arau,2015,Perlis,164
+Arau,2016,Perlis,154
+Arau,2017,Perlis,135
+Arau,2018,Perlis,142
+Arau,2019,Perlis,136
+Arau,2020,Perlis,117
+Arau,2021,Perlis,88
+Arau,2022,Perlis,83
+Arau,2023,Perlis,96
+Arau,2024,Perlis,74
+Bachok,2015,Kelantan,364
+Bachok,2016,Kelantan,375
+Bachok,2017,Kelantan,309
+Bachok,2018,Kelantan,258
+Bachok,2019,Kelantan,242
+Bachok,2020,Kelantan,204
+Bachok,2021,Kelantan,206
+Bachok,2022,Kelantan,200
+Bachok,2023,Kelantan,160
+Bachok,2024,Kelantan,124
+Baling,2015,Kedah,376
+Baling,2016,Kedah,420
+Baling,2017,Kedah,320
+Baling,2018,Kedah,336
+Baling,2019,Kedah,306
+Baling,2020,Kedah,213
+Baling,2021,Kedah,208
+Baling,2022,Kedah,315
+Baling,2023,Kedah,292
+Baling,2024,Kedah,226
+Bandar Baharu,2015,Kedah,32
+Bandar Baharu,2016,Kedah,72
+Bandar Baharu,2017,Kedah,68
+Bandar Baharu,2018,Kedah,66
+Bandar Baharu,2019,Kedah,58
+Bandar Baharu,2020,Kedah,35
+Bandar Baharu,2021,Kedah,34
+Bandar Baharu,2022,Kedah,51
+Bandar Baharu,2023,Kedah,45
+Bandar Baharu,2024,Kedah,75
+Barat Daya,2015,Pulau Pinang,563
+Barat Daya,2016,Pulau Pinang,538
+Barat Daya,2017,Pulau Pinang,521
+Barat Daya,2018,Pulau Pinang,491
+Barat Daya,2019,Pulau Pinang,508
+Barat Daya,2020,Pulau Pinang,333
+Barat Daya,2021,Pulau Pinang,367
+Barat Daya,2022,Pulau Pinang,352
+Barat Daya,2023,Pulau Pinang,407
+Barat Daya,2024,Pulau Pinang,316
+Batu Gajah,2015,Perak,104
+Batu Gajah,2016,Perak,120
+Batu Gajah,2017,Perak,91
+Batu Gajah,2018,Perak,92
+Batu Gajah,2019,Perak,105
+Batu Gajah,2020,Perak,77
+Batu Gajah,2021,Perak,68
+Batu Gajah,2022,Perak,97
+Batu Gajah,2023,Perak,105
+Batu Gajah,2024,Perak,85
+Batu Pahat,2015,Johor,864
+Batu Pahat,2016,Johor,781
+Batu Pahat,2017,Johor,681
+Batu Pahat,2018,Johor,688
+Batu Pahat,2019,Johor,663
+Batu Pahat,2020,Johor,542
+Batu Pahat,2021,Johor,260
+Batu Pahat,2022,Johor,314
+Batu Pahat,2023,Johor,373
+Batu Pahat,2024,Johor,211
+Bau,2015,Sarawak,65
+Bau,2016,Sarawak,55
+Bau,2017,Sarawak,48
+Bau,2018,Sarawak,128
+Bau,2019,Sarawak,47
+Bau,2020,Sarawak,35
+Bau,2021,Sarawak,33
+Bau,2022,Sarawak,58
+Bau,2023,Sarawak,76
+Bau,2024,Sarawak,55
+Beaufort,2015,Sabah,192
+Beaufort,2016,Sabah,135
+Beaufort,2017,Sabah,158
+Beaufort,2018,Sabah,188
+Beaufort,2019,Sabah,156
+Beaufort,2020,Sabah,80
+Beaufort,2021,Sabah,58
+Beaufort,2022,Sabah,52
+Beaufort,2023,Sabah,60
+Beaufort,2024,Sabah,29
+Belaga,2015,Sarawak,74
+Belaga,2016,Sarawak,72
+Belaga,2017,Sarawak,73
+Belaga,2018,Sarawak,48
+Belaga,2019,Sarawak,32
+Belaga,2020,Sarawak,24
+Belaga,2021,Sarawak,26
+Belaga,2022,Sarawak,18
+Belaga,2023,Sarawak,34
+Belaga,2024,Sarawak,8
+Beluran,2015,Sabah,64
+Beluran,2016,Sabah,58
+Beluran,2017,Sabah,77
+Beluran,2018,Sabah,75
+Beluran,2019,Sabah,67
+Beluran,2020,Sabah,50
+Beluran,2021,Sabah,53
+Beluran,2022,Sabah,67
+Beluran,2023,Sabah,84
+Beluran,2024,Sabah,69
+Bentong,2015,Pahang,493
+Bentong,2016,Pahang,399
+Bentong,2017,Pahang,327
+Bentong,2018,Pahang,536
+Bentong,2019,Pahang,524
+Bentong,2020,Pahang,278
+Bentong,2021,Pahang,167
+Bentong,2022,Pahang,236
+Bentong,2023,Pahang,246
+Bentong,2024,Pahang,185
+Bera,2015,Pahang,162
+Bera,2016,Pahang,184
+Bera,2017,Pahang,140
+Bera,2018,Pahang,130
+Bera,2019,Pahang,125
+Bera,2020,Pahang,113
+Bera,2021,Pahang,116
+Bera,2022,Pahang,127
+Bera,2023,Pahang,120
+Bera,2024,Pahang,102
+Besut,2015,Terengganu,544
+Besut,2016,Terengganu,498
+Besut,2017,Terengganu,484
+Besut,2018,Terengganu,367
+Besut,2019,Terengganu,409
+Besut,2020,Terengganu,405
+Besut,2021,Terengganu,301
+Besut,2022,Terengganu,239
+Besut,2023,Terengganu,230
+Besut,2024,Terengganu,190
+Betong,2015,Sarawak,65
+Betong,2016,Sarawak,76
+Betong,2017,Sarawak,63
+Betong,2018,Sarawak,68
+Betong,2019,Sarawak,67
+Betong,2020,Sarawak,72
+Betong,2021,Sarawak,84
+Betong,2022,Sarawak,82
+Betong,2023,Sarawak,77
+Betong,2024,Sarawak,82
+Bintulu,2015,Sarawak,649
+Bintulu,2016,Sarawak,682
+Bintulu,2017,Sarawak,585
+Bintulu,2018,Sarawak,463
+Bintulu,2019,Sarawak,469
+Bintulu,2020,Sarawak,349
+Bintulu,2021,Sarawak,313
+Bintulu,2022,Sarawak,404
+Bintulu,2023,Sarawak,374
+Bintulu,2024,Sarawak,260
+Brickfields,2015,W.P. Kuala Lumpur,2820
+Brickfields,2016,W.P. Kuala Lumpur,2754
+Brickfields,2017,W.P. Kuala Lumpur,2020
+Brickfields,2018,W.P. Kuala Lumpur,1915
+Brickfields,2019,W.P. Kuala Lumpur,1886
+Brickfields,2020,W.P. Kuala Lumpur,1549
+Brickfields,2021,W.P. Kuala Lumpur,990
+Brickfields,2022,W.P. Kuala Lumpur,801
+Brickfields,2023,W.P. Kuala Lumpur,780
+Brickfields,2024,W.P. Kuala Lumpur,353
+Cameron Highlands,2015,Pahang,78
+Cameron Highlands,2016,Pahang,78
+Cameron Highlands,2017,Pahang,76
+Cameron Highlands,2018,Pahang,66
+Cameron Highlands,2019,Pahang,45
+Cameron Highlands,2020,Pahang,36
+Cameron Highlands,2021,Pahang,38
+Cameron Highlands,2022,Pahang,45
+Cameron Highlands,2023,Pahang,50
+Cameron Highlands,2024,Pahang,30
+Cheras,2015,W.P. Kuala Lumpur,2516
+Cheras,2016,W.P. Kuala Lumpur,2493
+Cheras,2017,W.P. Kuala Lumpur,1942
+Cheras,2018,W.P. Kuala Lumpur,1649
+Cheras,2019,W.P. Kuala Lumpur,1635
+Cheras,2020,W.P. Kuala Lumpur,1295
+Cheras,2021,W.P. Kuala Lumpur,1058
+Cheras,2022,W.P. Kuala Lumpur,849
+Cheras,2023,W.P. Kuala Lumpur,758
+Cheras,2024,W.P. Kuala Lumpur,403
+Dalat,2015,Sarawak,38
+Dalat,2016,Sarawak,34
+Dalat,2017,Sarawak,33
+Dalat,2018,Sarawak,26
+Dalat,2019,Sarawak,19
+Dalat,2020,Sarawak,14
+Dalat,2021,Sarawak,9
+Dalat,2022,Sarawak,8
+Dalat,2023,Sarawak,11
+Dalat,2024,Sarawak,1
+Dang Wangi,2015,W.P. Kuala Lumpur,4814
+Dang Wangi,2016,W.P. Kuala Lumpur,4372
+Dang Wangi,2017,W.P. Kuala Lumpur,3606
+Dang Wangi,2018,W.P. Kuala Lumpur,3516
+Dang Wangi,2019,W.P. Kuala Lumpur,2914
+Dang Wangi,2020,W.P. Kuala Lumpur,2040
+Dang Wangi,2021,W.P. Kuala Lumpur,1411
+Dang Wangi,2022,W.P. Kuala Lumpur,1128
+Dang Wangi,2023,W.P. Kuala Lumpur,993
+Dang Wangi,2024,W.P. Kuala Lumpur,182
+Dungun,2015,Terengganu,380
+Dungun,2016,Terengganu,378
+Dungun,2017,Terengganu,319
+Dungun,2018,Terengganu,284
+Dungun,2019,Terengganu,247
+Dungun,2020,Terengganu,261
+Dungun,2021,Terengganu,213
+Dungun,2022,Terengganu,189
+Dungun,2023,Terengganu,173
+Dungun,2024,Terengganu,136
+Gerik,2015,Perak,86
+Gerik,2016,Perak,86
+Gerik,2017,Perak,78
+Gerik,2018,Perak,69
+Gerik,2019,Perak,83
+Gerik,2020,Perak,70
+Gerik,2021,Perak,51
+Gerik,2022,Perak,60
+Gerik,2023,Perak,69
+Gerik,2024,Perak,56
+Gombak,2015,Selangor,3634
+Gombak,2016,Selangor,3716
+Gombak,2017,Selangor,3084
+Gombak,2018,Selangor,2494
+Gombak,2019,Selangor,2427
+Gombak,2020,Selangor,2116
+Gombak,2021,Selangor,1891
+Gombak,2022,Selangor,1558
+Gombak,2023,Selangor,1772
+Gombak,2024,Selangor,1131
+Gua Musang,2015,Kelantan,223
+Gua Musang,2016,Kelantan,233
+Gua Musang,2017,Kelantan,198
+Gua Musang,2018,Kelantan,149
+Gua Musang,2019,Kelantan,152
+Gua Musang,2020,Kelantan,116
+Gua Musang,2021,Kelantan,99
+Gua Musang,2022,Kelantan,118
+Gua Musang,2023,Kelantan,116
+Gua Musang,2024,Kelantan,72
+Hilir Perak,2015,Perak,642
+Hilir Perak,2016,Perak,601
+Hilir Perak,2017,Perak,560
+Hilir Perak,2018,Perak,560
+Hilir Perak,2019,Perak,554
+Hilir Perak,2020,Perak,450
+Hilir Perak,2021,Perak,370
+Hilir Perak,2022,Perak,363
+Hilir Perak,2023,Perak,420
+Hilir Perak,2024,Perak,328
+Hulu Selangor,2015,Selangor,536
+Hulu Selangor,2016,Selangor,493
+Hulu Selangor,2017,Selangor,482
+Hulu Selangor,2018,Selangor,455
+Hulu Selangor,2019,Selangor,496
+Hulu Selangor,2020,Selangor,590
+Hulu Selangor,2021,Selangor,506
+Hulu Selangor,2022,Selangor,329
+Hulu Selangor,2023,Selangor,384
+Hulu Selangor,2024,Selangor,398
+Hulu Terengganu,2015,Terengganu,149
+Hulu Terengganu,2016,Terengganu,155
+Hulu Terengganu,2017,Terengganu,143
+Hulu Terengganu,2018,Terengganu,103
+Hulu Terengganu,2019,Terengganu,106
+Hulu Terengganu,2020,Terengganu,124
+Hulu Terengganu,2021,Terengganu,109
+Hulu Terengganu,2022,Terengganu,101
+Hulu Terengganu,2023,Terengganu,94
+Hulu Terengganu,2024,Terengganu,85
+Ipoh,2015,Perak,2296
+Ipoh,2016,Perak,2203
+Ipoh,2017,Perak,2081
+Ipoh,2018,Perak,1964
+Ipoh,2019,Perak,1865
+Ipoh,2020,Perak,1088
+Ipoh,2021,Perak,1078
+Ipoh,2022,Perak,1359
+Ipoh,2023,Perak,1450
+Ipoh,2024,Perak,976
+Iskandar Puteri,2015,Johor,625
+Iskandar Puteri,2016,Johor,0
+Iskandar Puteri,2017,Johor,922
+Iskandar Puteri,2018,Johor,933
+Iskandar Puteri,2019,Johor,954
+Iskandar Puteri,2020,Johor,634
+Iskandar Puteri,2021,Johor,400
+Iskandar Puteri,2022,Johor,436
+Iskandar Puteri,2023,Johor,571
+Iskandar Puteri,2024,Johor,587
+Jasin,2015,Melaka,273
+Jasin,2016,Melaka,254
+Jasin,2017,Melaka,258
+Jasin,2018,Melaka,230
+Jasin,2019,Melaka,241
+Jasin,2020,Melaka,173
+Jasin,2021,Melaka,162
+Jasin,2022,Melaka,164
+Jasin,2023,Melaka,188
+Jasin,2024,Melaka,144
+Jelebu,2015,Negeri Sembilan,82
+Jelebu,2016,Negeri Sembilan,85
+Jelebu,2017,Negeri Sembilan,75
+Jelebu,2018,Negeri Sembilan,71
+Jelebu,2019,Negeri Sembilan,67
+Jelebu,2020,Negeri Sembilan,47
+Jelebu,2021,Negeri Sembilan,39
+Jelebu,2022,Negeri Sembilan,67
+Jelebu,2023,Negeri Sembilan,60
+Jelebu,2024,Negeri Sembilan,46
+Jeli,2015,Kelantan,50
+Jeli,2016,Kelantan,46
+Jeli,2017,Kelantan,49
+Jeli,2018,Kelantan,52
+Jeli,2019,Kelantan,50
+Jeli,2020,Kelantan,38
+Jeli,2021,Kelantan,33
+Jeli,2022,Kelantan,43
+Jeli,2023,Kelantan,44
+Jeli,2024,Kelantan,38
+Jempol,2015,Negeri Sembilan,275
+Jempol,2016,Negeri Sembilan,272
+Jempol,2017,Negeri Sembilan,245
+Jempol,2018,Negeri Sembilan,240
+Jempol,2019,Negeri Sembilan,210
+Jempol,2020,Negeri Sembilan,234
+Jempol,2021,Negeri Sembilan,183
+Jempol,2022,Negeri Sembilan,153
+Jempol,2023,Negeri Sembilan,205
+Jempol,2024,Negeri Sembilan,160
+Jerantut,2015,Pahang,234
+Jerantut,2016,Pahang,223
+Jerantut,2017,Pahang,193
+Jerantut,2018,Pahang,191
+Jerantut,2019,Pahang,186
+Jerantut,2020,Pahang,125
+Jerantut,2021,Pahang,116
+Jerantut,2022,Pahang,112
+Jerantut,2023,Pahang,118
+Jerantut,2024,Pahang,82
+Johor Bahru Selatan,2015,Johor,3938
+Johor Bahru Selatan,2016,Johor,3779
+Johor Bahru Selatan,2017,Johor,3231
+Johor Bahru Selatan,2018,Johor,2516
+Johor Bahru Selatan,2019,Johor,2195
+Johor Bahru Selatan,2020,Johor,1491
+Johor Bahru Selatan,2021,Johor,759
+Johor Bahru Selatan,2022,Johor,946
+Johor Bahru Selatan,2023,Johor,1105
+Johor Bahru Selatan,2024,Johor,68
+Johor Bahru Utara,2015,Johor,2316
+Johor Bahru Utara,2016,Johor,2156
+Johor Bahru Utara,2017,Johor,1649
+Johor Bahru Utara,2018,Johor,1649
+Johor Bahru Utara,2019,Johor,1541
+Johor Bahru Utara,2020,Johor,1006
+Johor Bahru Utara,2021,Johor,547
+Johor Bahru Utara,2022,Johor,502
+Johor Bahru Utara,2023,Johor,545
+Johor Bahru Utara,2024,Johor,82
+Julau,2015,Sarawak,8
+Julau,2016,Sarawak,13
+Julau,2017,Sarawak,11
+Julau,2018,Sarawak,8
+Julau,2019,Sarawak,7
+Julau,2020,Sarawak,10
+Julau,2021,Sarawak,4
+Julau,2022,Sarawak,15
+Julau,2023,Sarawak,19
+Julau,2024,Sarawak,14
+Kajang,2015,Selangor,3934
+Kajang,2016,Selangor,3936
+Kajang,2017,Selangor,3612
+Kajang,2018,Selangor,2403
+Kajang,2019,Selangor,2251
+Kajang,2020,Selangor,2057
+Kajang,2021,Selangor,1817
+Kajang,2022,Selangor,1585
+Kajang,2023,Selangor,1589
+Kajang,2024,Selangor,879
+Kampar,2015,Perak,229
+Kampar,2016,Perak,195
+Kampar,2017,Perak,182
+Kampar,2018,Perak,192
+Kampar,2019,Perak,201
+Kampar,2020,Perak,113
+Kampar,2021,Perak,91
+Kampar,2022,Perak,92
+Kampar,2023,Perak,91
+Kampar,2024,Perak,61
+Kangar,2015,Perlis,442
+Kangar,2016,Perlis,414
+Kangar,2017,Perlis,361
+Kangar,2018,Perlis,346
+Kangar,2019,Perlis,319
+Kangar,2020,Perlis,311
+Kangar,2021,Perlis,286
+Kangar,2022,Perlis,219
+Kangar,2023,Perlis,175
+Kangar,2024,Perlis,166
+Kanowit,2015,Sarawak,29
+Kanowit,2016,Sarawak,24
+Kanowit,2017,Sarawak,28
+Kanowit,2018,Sarawak,15
+Kanowit,2019,Sarawak,20
+Kanowit,2020,Sarawak,19
+Kanowit,2021,Sarawak,5
+Kanowit,2022,Sarawak,8
+Kanowit,2023,Sarawak,8
+Kanowit,2024,Sarawak,3
+Kapit,2015,Sarawak,74
+Kapit,2016,Sarawak,72
+Kapit,2017,Sarawak,68
+Kapit,2018,Sarawak,48
+Kapit,2019,Sarawak,47
+Kapit,2020,Sarawak,34
+Kapit,2021,Sarawak,24
+Kapit,2022,Sarawak,29
+Kapit,2023,Sarawak,33
+Kapit,2024,Sarawak,15
+Kemaman,2015,Terengganu,359
+Kemaman,2016,Terengganu,412
+Kemaman,2017,Terengganu,329
+Kemaman,2018,Terengganu,274
+Kemaman,2019,Terengganu,293
+Kemaman,2020,Terengganu,383
+Kemaman,2021,Terengganu,289
+Kemaman,2022,Terengganu,316
+Kemaman,2023,Terengganu,315
+Kemaman,2024,Terengganu,294
+Keningau,2015,Sabah,234
+Keningau,2016,Sabah,227
+Keningau,2017,Sabah,200
+Keningau,2018,Sabah,186
+Keningau,2019,Sabah,186
+Keningau,2020,Sabah,139
+Keningau,2021,Sabah,105
+Keningau,2022,Sabah,97
+Keningau,2023,Sabah,145
+Keningau,2024,Sabah,87
+Kerian,2015,Perak,217
+Kerian,2016,Perak,228
+Kerian,2017,Perak,195
+Kerian,2018,Perak,192
+Kerian,2019,Perak,198
+Kerian,2020,Perak,179
+Kerian,2021,Perak,190
+Kerian,2022,Perak,180
+Kerian,2023,Perak,178
+Kerian,2024,Perak,168
+Klang Selatan,2015,Selangor,2428
+Klang Selatan,2016,Selangor,2374
+Klang Selatan,2017,Selangor,2192
+Klang Selatan,2018,Selangor,1927
+Klang Selatan,2019,Selangor,1663
+Klang Selatan,2020,Selangor,1412
+Klang Selatan,2021,Selangor,1714
+Klang Selatan,2022,Selangor,1260
+Klang Selatan,2023,Selangor,1308
+Klang Selatan,2024,Selangor,1034
+Klang Utara,2015,Selangor,1535
+Klang Utara,2016,Selangor,1643
+Klang Utara,2017,Selangor,1383
+Klang Utara,2018,Selangor,1048
+Klang Utara,2019,Selangor,961
+Klang Utara,2020,Selangor,920
+Klang Utara,2021,Selangor,841
+Klang Utara,2022,Selangor,816
+Klang Utara,2023,Selangor,878
+Klang Utara,2024,Selangor,587
+Kluang,2015,Johor,770
+Kluang,2016,Johor,682
+Kluang,2017,Johor,652
+Kluang,2018,Johor,602
+Kluang,2019,Johor,585
+Kluang,2020,Johor,517
+Kluang,2021,Johor,301
+Kluang,2022,Johor,270
+Kluang,2023,Johor,364
+Kluang,2024,Johor,223
+Kota Belud,2015,Sabah,227
+Kota Belud,2016,Sabah,154
+Kota Belud,2017,Sabah,217
+Kota Belud,2018,Sabah,181
+Kota Belud,2019,Sabah,143
+Kota Belud,2020,Sabah,89
+Kota Belud,2021,Sabah,104
+Kota Belud,2022,Sabah,42
+Kota Belud,2023,Sabah,35
+Kota Belud,2024,Sabah,14
+Kota Bharu,2015,Kelantan,2153
+Kota Bharu,2016,Kelantan,1861
+Kota Bharu,2017,Kelantan,2000
+Kota Bharu,2018,Kelantan,1597
+Kota Bharu,2019,Kelantan,1484
+Kota Bharu,2020,Kelantan,973
+Kota Bharu,2021,Kelantan,799
+Kota Bharu,2022,Kelantan,850
+Kota Bharu,2023,Kelantan,815
+Kota Bharu,2024,Kelantan,441
+Kota Kinabalu,2015,Sabah,1514
+Kota Kinabalu,2016,Sabah,1352
+Kota Kinabalu,2017,Sabah,1538
+Kota Kinabalu,2018,Sabah,1431
+Kota Kinabalu,2019,Sabah,1234
+Kota Kinabalu,2020,Sabah,1004
+Kota Kinabalu,2021,Sabah,949
+Kota Kinabalu,2022,Sabah,1290
+Kota Kinabalu,2023,Sabah,996
+Kota Kinabalu,2024,Sabah,935
+Kota Kinabatangan,2015,Sabah,59
+Kota Kinabatangan,2016,Sabah,57
+Kota Kinabatangan,2017,Sabah,61
+Kota Kinabatangan,2018,Sabah,80
+Kota Kinabatangan,2019,Sabah,77
+Kota Kinabatangan,2020,Sabah,61
+Kota Kinabatangan,2021,Sabah,69
+Kota Kinabatangan,2022,Sabah,70
+Kota Kinabatangan,2023,Sabah,88
+Kota Kinabatangan,2024,Sabah,82
+Kota Marudu,2015,Sabah,99
+Kota Marudu,2016,Sabah,69
+Kota Marudu,2017,Sabah,102
+Kota Marudu,2018,Sabah,118
+Kota Marudu,2019,Sabah,112
+Kota Marudu,2020,Sabah,68
+Kota Marudu,2021,Sabah,59
+Kota Marudu,2022,Sabah,81
+Kota Marudu,2023,Sabah,80
+Kota Marudu,2024,Sabah,73
+Kota Samarahan,2015,Sarawak,357
+Kota Samarahan,2016,Sarawak,303
+Kota Samarahan,2017,Sarawak,330
+Kota Samarahan,2018,Sarawak,347
+Kota Samarahan,2019,Sarawak,381
+Kota Samarahan,2020,Sarawak,445
+Kota Samarahan,2021,Sarawak,335
+Kota Samarahan,2022,Sarawak,310
+Kota Samarahan,2023,Sarawak,267
+Kota Samarahan,2024,Sarawak,322
+Kota Setar,2015,Kedah,1806
+Kota Setar,2016,Kedah,1992
+Kota Setar,2017,Kedah,1552
+Kota Setar,2018,Kedah,1407
+Kota Setar,2019,Kedah,1288
+Kota Setar,2020,Kedah,934
+Kota Setar,2021,Kedah,925
+Kota Setar,2022,Kedah,1205
+Kota Setar,2023,Kedah,1173
+Kota Setar,2024,Kedah,813
+Kota Tinggi,2015,Johor,682
+Kota Tinggi,2016,Johor,565
+Kota Tinggi,2017,Johor,583
+Kota Tinggi,2018,Johor,542
+Kota Tinggi,2019,Johor,471
+Kota Tinggi,2020,Johor,440
+Kota Tinggi,2021,Johor,223
+Kota Tinggi,2022,Johor,209
+Kota Tinggi,2023,Johor,250
+Kota Tinggi,2024,Johor,139
+Kuala Kangsar,2015,Perak,160
+Kuala Kangsar,2016,Perak,170
+Kuala Kangsar,2017,Perak,139
+Kuala Kangsar,2018,Perak,120
+Kuala Kangsar,2019,Perak,121
+Kuala Kangsar,2020,Perak,99
+Kuala Kangsar,2021,Perak,73
+Kuala Kangsar,2022,Perak,103
+Kuala Kangsar,2023,Perak,99
+Kuala Kangsar,2024,Perak,70
+Kuala Krai,2015,Kelantan,292
+Kuala Krai,2016,Kelantan,256
+Kuala Krai,2017,Kelantan,254
+Kuala Krai,2018,Kelantan,189
+Kuala Krai,2019,Kelantan,164
+Kuala Krai,2020,Kelantan,116
+Kuala Krai,2021,Kelantan,68
+Kuala Krai,2022,Kelantan,62
+Kuala Krai,2023,Kelantan,63
+Kuala Krai,2024,Kelantan,1
+Kuala Langat,2015,Selangor,690
+Kuala Langat,2016,Selangor,752
+Kuala Langat,2017,Selangor,641
+Kuala Langat,2018,Selangor,524
+Kuala Langat,2019,Selangor,490
+Kuala Langat,2020,Selangor,480
+Kuala Langat,2021,Selangor,509
+Kuala Langat,2022,Selangor,520
+Kuala Langat,2023,Selangor,468
+Kuala Langat,2024,Selangor,406
+Kuala Lipis,2015,Pahang,144
+Kuala Lipis,2016,Pahang,136
+Kuala Lipis,2017,Pahang,125
+Kuala Lipis,2018,Pahang,117
+Kuala Lipis,2019,Pahang,107
+Kuala Lipis,2020,Pahang,87
+Kuala Lipis,2021,Pahang,80
+Kuala Lipis,2022,Pahang,69
+Kuala Lipis,2023,Pahang,78
+Kuala Lipis,2024,Pahang,56
+Kuala Muda,2015,Kedah,2267
+Kuala Muda,2016,Kedah,2056
+Kuala Muda,2017,Kedah,2077
+Kuala Muda,2018,Kedah,1973
+Kuala Muda,2019,Kedah,1809
+Kuala Muda,2020,Kedah,1258
+Kuala Muda,2021,Kedah,1187
+Kuala Muda,2022,Kedah,1274
+Kuala Muda,2023,Kedah,1318
+Kuala Muda,2024,Kedah,971
+Kuala Pilah,2015,Negeri Sembilan,289
+Kuala Pilah,2016,Negeri Sembilan,279
+Kuala Pilah,2017,Negeri Sembilan,248
+Kuala Pilah,2018,Negeri Sembilan,195
+Kuala Pilah,2019,Negeri Sembilan,195
+Kuala Pilah,2020,Negeri Sembilan,148
+Kuala Pilah,2021,Negeri Sembilan,97
+Kuala Pilah,2022,Negeri Sembilan,117
+Kuala Pilah,2023,Negeri Sembilan,115
+Kuala Pilah,2024,Negeri Sembilan,59
+Kuala Selangor,2015,Selangor,452
+Kuala Selangor,2016,Selangor,546
+Kuala Selangor,2017,Selangor,418
+Kuala Selangor,2018,Selangor,364
+Kuala Selangor,2019,Selangor,439
+Kuala Selangor,2020,Selangor,474
+Kuala Selangor,2021,Selangor,513
+Kuala Selangor,2022,Selangor,418
+Kuala Selangor,2023,Selangor,492
+Kuala Selangor,2024,Selangor,464
+Kuala Terengganu,2015,Terengganu,769
+Kuala Terengganu,2016,Terengganu,751
+Kuala Terengganu,2017,Terengganu,701
+Kuala Terengganu,2018,Terengganu,548
+Kuala Terengganu,2019,Terengganu,576
+Kuala Terengganu,2020,Terengganu,668
+Kuala Terengganu,2021,Terengganu,491
+Kuala Terengganu,2022,Terengganu,473
+Kuala Terengganu,2023,Terengganu,416
+Kuala Terengganu,2024,Terengganu,387
+Kuantan,2015,Pahang,1905
+Kuantan,2016,Pahang,1598
+Kuantan,2017,Pahang,1644
+Kuantan,2018,Pahang,1560
+Kuantan,2019,Pahang,1274
+Kuantan,2020,Pahang,889
+Kuantan,2021,Pahang,835
+Kuantan,2022,Pahang,673
+Kuantan,2023,Pahang,601
+Kuantan,2024,Pahang,363
+Kubang Pasu,2015,Kedah,815
+Kubang Pasu,2016,Kedah,792
+Kubang Pasu,2017,Kedah,765
+Kubang Pasu,2018,Kedah,594
+Kubang Pasu,2019,Kedah,501
+Kubang Pasu,2020,Kedah,418
+Kubang Pasu,2021,Kedah,294
+Kubang Pasu,2022,Kedah,418
+Kubang Pasu,2023,Kedah,403
+Kubang Pasu,2024,Kedah,232
+Kuching,2015,Sarawak,1747
+Kuching,2016,Sarawak,1595
+Kuching,2017,Sarawak,1554
+Kuching,2018,Sarawak,1262
+Kuching,2019,Sarawak,1372
+Kuching,2020,Sarawak,1361
+Kuching,2021,Sarawak,932
+Kuching,2022,Sarawak,830
+Kuching,2023,Sarawak,846
+Kuching,2024,Sarawak,691
+Kudat,2015,Sabah,58
+Kudat,2016,Sabah,59
+Kudat,2017,Sabah,56
+Kudat,2018,Sabah,54
+Kudat,2019,Sabah,48
+Kudat,2020,Sabah,34
+Kudat,2021,Sabah,25
+Kudat,2022,Sabah,38
+Kudat,2023,Sabah,56
+Kudat,2024,Sabah,35
+Kulaijaya,2015,Johor,927
+Kulaijaya,2016,Johor,773
+Kulaijaya,2017,Johor,772
+Kulaijaya,2018,Johor,749
+Kulaijaya,2019,Johor,686
+Kulaijaya,2020,Johor,375
+Kulaijaya,2021,Johor,280
+Kulaijaya,2022,Johor,295
+Kulaijaya,2023,Johor,297
+Kulaijaya,2024,Johor,130
+Kulim,2015,Kedah,1068
+Kulim,2016,Kedah,1058
+Kulim,2017,Kedah,1018
+Kulim,2018,Kedah,858
+Kulim,2019,Kedah,726
+Kulim,2020,Kedah,515
+Kulim,2021,Kedah,542
+Kulim,2022,Kedah,688
+Kulim,2023,Kedah,621
+Kulim,2024,Kedah,439
+Kunak,2015,Sabah,91
+Kunak,2016,Sabah,86
+Kunak,2017,Sabah,95
+Kunak,2018,Sabah,49
+Kunak,2019,Sabah,70
+Kunak,2020,Sabah,45
+Kunak,2021,Sabah,44
+Kunak,2022,Sabah,37
+Kunak,2023,Sabah,48
+Kunak,2024,Sabah,27
+Lahad Datu,2015,Sabah,342
+Lahad Datu,2016,Sabah,307
+Lahad Datu,2017,Sabah,284
+Lahad Datu,2018,Sabah,298
+Lahad Datu,2019,Sabah,311
+Lahad Datu,2020,Sabah,201
+Lahad Datu,2021,Sabah,162
+Lahad Datu,2022,Sabah,148
+Lahad Datu,2023,Sabah,205
+Lahad Datu,2024,Sabah,137
+Langkawi,2015,Kedah,487
+Langkawi,2016,Kedah,447
+Langkawi,2017,Kedah,395
+Langkawi,2018,Kedah,409
+Langkawi,2019,Kedah,410
+Langkawi,2020,Kedah,325
+Langkawi,2021,Kedah,262
+Langkawi,2022,Kedah,243
+Langkawi,2023,Kedah,244
+Langkawi,2024,Kedah,197
+Lawas,2015,Sarawak,59
+Lawas,2016,Sarawak,54
+Lawas,2017,Sarawak,41
+Lawas,2018,Sarawak,67
+Lawas,2019,Sarawak,41
+Lawas,2020,Sarawak,32
+Lawas,2021,Sarawak,24
+Lawas,2022,Sarawak,29
+Lawas,2023,Sarawak,33
+Lawas,2024,Sarawak,22
+Ledang,2015,Johor,289
+Ledang,2016,Johor,270
+Ledang,2017,Johor,234
+Ledang,2018,Johor,207
+Ledang,2019,Johor,216
+Ledang,2020,Johor,178
+Ledang,2021,Johor,85
+Ledang,2022,Johor,101
+Ledang,2023,Johor,123
+Ledang,2024,Johor,64
+Limbang,2015,Sarawak,91
+Limbang,2016,Sarawak,72
+Limbang,2017,Sarawak,73
+Limbang,2018,Sarawak,94
+Limbang,2019,Sarawak,39
+Limbang,2020,Sarawak,34
+Limbang,2021,Sarawak,30
+Limbang,2022,Sarawak,26
+Limbang,2023,Sarawak,22
+Limbang,2024,Sarawak,7
+Lubok Antu,2015,Sarawak,25
+Lubok Antu,2016,Sarawak,15
+Lubok Antu,2017,Sarawak,32
+Lubok Antu,2018,Sarawak,34
+Lubok Antu,2019,Sarawak,18
+Lubok Antu,2020,Sarawak,27
+Lubok Antu,2021,Sarawak,16
+Lubok Antu,2022,Sarawak,19
+Lubok Antu,2023,Sarawak,26
+Lubok Antu,2024,Sarawak,22
+Lundu,2015,Sarawak,70
+Lundu,2016,Sarawak,93
+Lundu,2017,Sarawak,64
+Lundu,2018,Sarawak,48
+Lundu,2019,Sarawak,38
+Lundu,2020,Sarawak,49
+Lundu,2021,Sarawak,64
+Lundu,2022,Sarawak,52
+Lundu,2023,Sarawak,63
+Lundu,2024,Sarawak,48
+Machang,2015,Kelantan,305
+Machang,2016,Kelantan,233
+Machang,2017,Kelantan,215
+Machang,2018,Kelantan,380
+Machang,2019,Kelantan,188
+Machang,2020,Kelantan,161
+Machang,2021,Kelantan,110
+Machang,2022,Kelantan,136
+Machang,2023,Kelantan,106
+Machang,2024,Kelantan,78
+Manjung,2015,Perak,760
+Manjung,2016,Perak,679
+Manjung,2017,Perak,622
+Manjung,2018,Perak,614
+Manjung,2019,Perak,502
+Manjung,2020,Perak,372
+Manjung,2021,Perak,290
+Manjung,2022,Perak,246
+Manjung,2023,Perak,280
+Manjung,2024,Perak,141
+Maran,2015,Pahang,302
+Maran,2016,Pahang,263
+Maran,2017,Pahang,254
+Maran,2018,Pahang,252
+Maran,2019,Pahang,241
+Maran,2020,Pahang,163
+Maran,2021,Pahang,149
+Maran,2022,Pahang,125
+Maran,2023,Pahang,130
+Maran,2024,Pahang,92
+Marang,2015,Terengganu,194
+Marang,2016,Terengganu,191
+Marang,2017,Terengganu,172
+Marang,2018,Terengganu,140
+Marang,2019,Terengganu,135
+Marang,2020,Terengganu,180
+Marang,2021,Terengganu,148
+Marang,2022,Terengganu,108
+Marang,2023,Terengganu,102
+Marang,2024,Terengganu,100
+Marudi,2015,Sarawak,84
+Marudi,2016,Sarawak,76
+Marudi,2017,Sarawak,60
+Marudi,2018,Sarawak,122
+Marudi,2019,Sarawak,77
+Marudi,2020,Sarawak,70
+Marudi,2021,Sarawak,63
+Marudi,2022,Sarawak,66
+Marudi,2023,Sarawak,76
+Marudi,2024,Sarawak,68
+Matu Daro,2015,Sarawak,26
+Matu Daro,2016,Sarawak,27
+Matu Daro,2017,Sarawak,25
+Matu Daro,2018,Sarawak,34
+Matu Daro,2019,Sarawak,26
+Matu Daro,2020,Sarawak,26
+Matu Daro,2021,Sarawak,19
+Matu Daro,2022,Sarawak,21
+Matu Daro,2023,Sarawak,40
+Matu Daro,2024,Sarawak,29
+Melaka Tengah,2015,Melaka,3141
+Melaka Tengah,2016,Melaka,2974
+Melaka Tengah,2017,Melaka,2463
+Melaka Tengah,2018,Melaka,2236
+Melaka Tengah,2019,Melaka,1979
+Melaka Tengah,2020,Melaka,1356
+Melaka Tengah,2021,Melaka,899
+Melaka Tengah,2022,Melaka,874
+Melaka Tengah,2023,Melaka,984
+Melaka Tengah,2024,Melaka,300
+Meradong,2015,Sarawak,49
+Meradong,2016,Sarawak,35
+Meradong,2017,Sarawak,37
+Meradong,2018,Sarawak,67
+Meradong,2019,Sarawak,59
+Meradong,2020,Sarawak,50
+Meradong,2021,Sarawak,26
+Meradong,2022,Sarawak,22
+Meradong,2023,Sarawak,48
+Meradong,2024,Sarawak,37
+Mersing,2015,Johor,169
+Mersing,2016,Johor,154
+Mersing,2017,Johor,151
+Mersing,2018,Johor,129
+Mersing,2019,Johor,142
+Mersing,2020,Johor,106
+Mersing,2021,Johor,94
+Mersing,2022,Johor,85
+Mersing,2023,Johor,87
+Mersing,2024,Johor,68
+Miri,2015,Sarawak,1335
+Miri,2016,Sarawak,1159
+Miri,2017,Sarawak,978
+Miri,2018,Sarawak,895
+Miri,2019,Sarawak,970
+Miri,2020,Sarawak,1051
+Miri,2021,Sarawak,569
+Miri,2022,Sarawak,276
+Miri,2023,Sarawak,292
+Miri,2024,Sarawak,213
+Muar,2015,Johor,330
+Muar,2016,Johor,354
+Muar,2017,Johor,298
+Muar,2018,Johor,296
+Muar,2019,Johor,306
+Muar,2020,Johor,269
+Muar,2021,Johor,213
+Muar,2022,Johor,222
+Muar,2023,Johor,332
+Muar,2024,Johor,242
+Mukah,2015,Sarawak,103
+Mukah,2016,Sarawak,81
+Mukah,2017,Sarawak,84
+Mukah,2018,Sarawak,96
+Mukah,2019,Sarawak,97
+Mukah,2020,Sarawak,61
+Mukah,2021,Sarawak,55
+Mukah,2022,Sarawak,38
+Mukah,2023,Sarawak,50
+Mukah,2024,Sarawak,38
+Nilai,2015,Negeri Sembilan,1405
+Nilai,2016,Negeri Sembilan,1244
+Nilai,2017,Negeri Sembilan,1169
+Nilai,2018,Negeri Sembilan,983
+Nilai,2019,Negeri Sembilan,928
+Nilai,2020,Negeri Sembilan,653
+Nilai,2021,Negeri Sembilan,414
+Nilai,2022,Negeri Sembilan,365
+Nilai,2023,Negeri Sembilan,409
+Nilai,2024,Negeri Sembilan,136
+Nusajaya,2015,Johor,492
+Nusajaya,2016,Johor,981
+Nusajaya,2017,Johor,4
+Nusajaya,2018,Johor,0
+Nusajaya,2019,Johor,0
+Nusajaya,2020,Johor,0
+Nusajaya,2021,Johor,1
+Nusajaya,2022,Johor,0
+Nusajaya,2023,Johor,0
+Nusajaya,2024,Johor,-246
+Padang Besar,2015,Perlis,91
+Padang Besar,2016,Perlis,87
+Padang Besar,2017,Perlis,108
+Padang Besar,2018,Perlis,75
+Padang Besar,2019,Perlis,72
+Padang Besar,2020,Perlis,65
+Padang Besar,2021,Perlis,62
+Padang Besar,2022,Perlis,100
+Padang Besar,2023,Perlis,68
+Padang Besar,2024,Perlis,68
+Padang Terap,2015,Kedah,108
+Padang Terap,2016,Kedah,107
+Padang Terap,2017,Kedah,121
+Padang Terap,2018,Kedah,116
+Padang Terap,2019,Kedah,97
+Padang Terap,2020,Kedah,75
+Padang Terap,2021,Kedah,80
+Padang Terap,2022,Kedah,108
+Padang Terap,2023,Kedah,121
+Padang Terap,2024,Kedah,98
+Padawan,2015,Sarawak,917
+Padawan,2016,Sarawak,906
+Padawan,2017,Sarawak,908
+Padawan,2018,Sarawak,780
+Padawan,2019,Sarawak,783
+Padawan,2020,Sarawak,803
+Padawan,2021,Sarawak,772
+Padawan,2022,Sarawak,708
+Padawan,2023,Sarawak,737
+Padawan,2024,Sarawak,682
+Papar,2015,Sabah,291
+Papar,2016,Sabah,132
+Papar,2017,Sabah,287
+Papar,2018,Sabah,336
+Papar,2019,Sabah,342
+Papar,2020,Sabah,155
+Papar,2021,Sabah,103
+Papar,2022,Sabah,103
+Papar,2023,Sabah,151
+Papar,2024,Sabah,112
+Pasir Mas,2015,Kelantan,589
+Pasir Mas,2016,Kelantan,511
+Pasir Mas,2017,Kelantan,482
+Pasir Mas,2018,Kelantan,426
+Pasir Mas,2019,Kelantan,400
+Pasir Mas,2020,Kelantan,215
+Pasir Mas,2021,Kelantan,157
+Pasir Mas,2022,Kelantan,168
+Pasir Mas,2023,Kelantan,139
+Pasir Mas,2024,Kelantan,36
+Pasir Puteh,2015,Kelantan,463
+Pasir Puteh,2016,Kelantan,405
+Pasir Puteh,2017,Kelantan,398
+Pasir Puteh,2018,Kelantan,390
+Pasir Puteh,2019,Kelantan,328
+Pasir Puteh,2020,Kelantan,280
+Pasir Puteh,2021,Kelantan,223
+Pasir Puteh,2022,Kelantan,231
+Pasir Puteh,2023,Kelantan,179
+Pasir Puteh,2024,Kelantan,145
+Pekan,2015,Pahang,196
+Pekan,2016,Pahang,170
+Pekan,2017,Pahang,171
+Pekan,2018,Pahang,142
+Pekan,2019,Pahang,198
+Pekan,2020,Pahang,183
+Pekan,2021,Pahang,155
+Pekan,2022,Pahang,109
+Pekan,2023,Pahang,98
+Pekan,2024,Pahang,111
+Penampang,2015,Sabah,638
+Penampang,2016,Sabah,431
+Penampang,2017,Sabah,613
+Penampang,2018,Sabah,604
+Penampang,2019,Sabah,563
+Penampang,2020,Sabah,289
+Penampang,2021,Sabah,241
+Penampang,2022,Sabah,266
+Penampang,2023,Sabah,260
+Penampang,2024,Sabah,178
+Pendang,2015,Kedah,254
+Pendang,2016,Kedah,244
+Pendang,2017,Kedah,237
+Pendang,2018,Kedah,237
+Pendang,2019,Kedah,232
+Pendang,2020,Kedah,214
+Pendang,2021,Kedah,153
+Pendang,2022,Kedah,206
+Pendang,2023,Kedah,201
+Pendang,2024,Kedah,177
+Pengkalan Hulu,2015,Perak,20
+Pengkalan Hulu,2016,Perak,27
+Pengkalan Hulu,2017,Perak,15
+Pengkalan Hulu,2018,Perak,13
+Pengkalan Hulu,2019,Perak,13
+Pengkalan Hulu,2020,Perak,10
+Pengkalan Hulu,2021,Perak,10
+Pengkalan Hulu,2022,Perak,11
+Pengkalan Hulu,2023,Perak,16
+Pengkalan Hulu,2024,Perak,9
+Perak Tengah,2015,Perak,158
+Perak Tengah,2016,Perak,207
+Perak Tengah,2017,Perak,140
+Perak Tengah,2018,Perak,92
+Perak Tengah,2019,Perak,115
+Perak Tengah,2020,Perak,104
+Perak Tengah,2021,Perak,94
+Perak Tengah,2022,Perak,108
+Perak Tengah,2023,Perak,143
+Perak Tengah,2024,Perak,93
+Petaling Jaya,2015,Selangor,5208
+Petaling Jaya,2016,Selangor,5005
+Petaling Jaya,2017,Selangor,4215
+Petaling Jaya,2018,Selangor,3363
+Petaling Jaya,2019,Selangor,3116
+Petaling Jaya,2020,Selangor,2601
+Petaling Jaya,2021,Selangor,1740
+Petaling Jaya,2022,Selangor,1566
+Petaling Jaya,2023,Selangor,1472
+Petaling Jaya,2024,Selangor,562
+Pontian,2015,Johor,323
+Pontian,2016,Johor,293
+Pontian,2017,Johor,286
+Pontian,2018,Johor,283
+Pontian,2019,Johor,276
+Pontian,2020,Johor,190
+Pontian,2021,Johor,115
+Pontian,2022,Johor,123
+Pontian,2023,Johor,230
+Pontian,2024,Johor,126
+Port Dickson,2015,Negeri Sembilan,431
+Port Dickson,2016,Negeri Sembilan,388
+Port Dickson,2017,Negeri Sembilan,342
+Port Dickson,2018,Negeri Sembilan,386
+Port Dickson,2019,Negeri Sembilan,372
+Port Dickson,2020,Negeri Sembilan,275
+Port Dickson,2021,Negeri Sembilan,244
+Port Dickson,2022,Negeri Sembilan,218
+Port Dickson,2023,Negeri Sembilan,216
+Port Dickson,2024,Negeri Sembilan,179
+Ranau,2015,Sabah,85
+Ranau,2016,Sabah,97
+Ranau,2017,Sabah,73
+Ranau,2018,Sabah,66
+Ranau,2019,Sabah,97
+Ranau,2020,Sabah,57
+Ranau,2021,Sabah,59
+Ranau,2022,Sabah,74
+Ranau,2023,Sabah,79
+Ranau,2024,Sabah,66
+Raub,2015,Pahang,126
+Raub,2016,Pahang,117
+Raub,2017,Pahang,125
+Raub,2018,Pahang,113
+Raub,2019,Pahang,109
+Raub,2020,Pahang,91
+Raub,2021,Pahang,67
+Raub,2022,Pahang,91
+Raub,2023,Pahang,96
+Raub,2024,Pahang,76
+Rembau,2015,Negeri Sembilan,190
+Rembau,2016,Negeri Sembilan,171
+Rembau,2017,Negeri Sembilan,154
+Rembau,2018,Negeri Sembilan,158
+Rembau,2019,Negeri Sembilan,119
+Rembau,2020,Negeri Sembilan,63
+Rembau,2021,Negeri Sembilan,60
+Rembau,2022,Negeri Sembilan,59
+Rembau,2023,Negeri Sembilan,64
+Rembau,2024,Negeri Sembilan,22
+Rompin,2015,Pahang,270
+Rompin,2016,Pahang,297
+Rompin,2017,Pahang,224
+Rompin,2018,Pahang,179
+Rompin,2019,Pahang,161
+Rompin,2020,Pahang,119
+Rompin,2021,Pahang,135
+Rompin,2022,Pahang,116
+Rompin,2023,Pahang,133
+Rompin,2024,Pahang,71
+Sabak Bernam,2015,Selangor,475
+Sabak Bernam,2016,Selangor,419
+Sabak Bernam,2017,Selangor,397
+Sabak Bernam,2018,Selangor,359
+Sabak Bernam,2019,Selangor,320
+Sabak Bernam,2020,Selangor,265
+Sabak Bernam,2021,Selangor,179
+Sabak Bernam,2022,Selangor,150
+Sabak Bernam,2023,Selangor,164
+Sabak Bernam,2024,Selangor,88
+Sandakan,2015,Sabah,581
+Sandakan,2016,Sabah,476
+Sandakan,2017,Sabah,633
+Sandakan,2018,Sabah,636
+Sandakan,2019,Sabah,607
+Sandakan,2020,Sabah,530
+Sandakan,2021,Sabah,487
+Sandakan,2022,Sabah,568
+Sandakan,2023,Sabah,541
+Sandakan,2024,Sabah,539
+Saratok,2015,Sarawak,27
+Saratok,2016,Sarawak,32
+Saratok,2017,Sarawak,34
+Saratok,2018,Sarawak,25
+Saratok,2019,Sarawak,33
+Saratok,2020,Sarawak,55
+Saratok,2021,Sarawak,39
+Saratok,2022,Sarawak,41
+Saratok,2023,Sarawak,49
+Saratok,2024,Sarawak,50
+Sarikei,2015,Sarawak,226
+Sarikei,2016,Sarawak,206
+Sarikei,2017,Sarawak,177
+Sarikei,2018,Sarawak,158
+Sarikei,2019,Sarawak,160
+Sarikei,2020,Sarawak,153
+Sarikei,2021,Sarawak,72
+Sarikei,2022,Sarawak,75
+Sarikei,2023,Sarawak,72
+Sarikei,2024,Sarawak,42
+Seberang Perai Selatan,2015,Pulau Pinang,521
+Seberang Perai Selatan,2016,Pulau Pinang,505
+Seberang Perai Selatan,2017,Pulau Pinang,473
+Seberang Perai Selatan,2018,Pulau Pinang,416
+Seberang Perai Selatan,2019,Pulau Pinang,460
+Seberang Perai Selatan,2020,Pulau Pinang,304
+Seberang Perai Selatan,2021,Pulau Pinang,332
+Seberang Perai Selatan,2022,Pulau Pinang,314
+Seberang Perai Selatan,2023,Pulau Pinang,335
+Seberang Perai Selatan,2024,Pulau Pinang,264
+Seberang Perai Tengah,2015,Pulau Pinang,2385
+Seberang Perai Tengah,2016,Pulau Pinang,2210
+Seberang Perai Tengah,2017,Pulau Pinang,1903
+Seberang Perai Tengah,2018,Pulau Pinang,1744
+Seberang Perai Tengah,2019,Pulau Pinang,1951
+Seberang Perai Tengah,2020,Pulau Pinang,1299
+Seberang Perai Tengah,2021,Pulau Pinang,1219
+Seberang Perai Tengah,2022,Pulau Pinang,928
+Seberang Perai Tengah,2023,Pulau Pinang,925
+Seberang Perai Tengah,2024,Pulau Pinang,660
+Seberang Perai Utara,2015,Pulau Pinang,1220
+Seberang Perai Utara,2016,Pulau Pinang,1154
+Seberang Perai Utara,2017,Pulau Pinang,1107
+Seberang Perai Utara,2018,Pulau Pinang,1003
+Seberang Perai Utara,2019,Pulau Pinang,943
+Seberang Perai Utara,2020,Pulau Pinang,714
+Seberang Perai Utara,2021,Pulau Pinang,710
+Seberang Perai Utara,2022,Pulau Pinang,689
+Seberang Perai Utara,2023,Pulau Pinang,696
+Seberang Perai Utara,2024,Pulau Pinang,534
+Segamat,2015,Johor,429
+Segamat,2016,Johor,352
+Segamat,2017,Johor,370
+Segamat,2018,Johor,360
+Segamat,2019,Johor,345
+Segamat,2020,Johor,287
+Segamat,2021,Johor,198
+Segamat,2022,Johor,176
+Segamat,2023,Johor,182
+Segamat,2024,Johor,139
+Selama,2015,Perak,31
+Selama,2016,Perak,39
+Selama,2017,Perak,26
+Selama,2018,Perak,33
+Selama,2019,Perak,40
+Selama,2020,Perak,29
+Selama,2021,Perak,32
+Selama,2022,Perak,33
+Selama,2023,Perak,45
+Selama,2024,Perak,38
+Semporna,2015,Sabah,367
+Semporna,2016,Sabah,235
+Semporna,2017,Sabah,359
+Semporna,2018,Sabah,409
+Semporna,2019,Sabah,351
+Semporna,2020,Sabah,242
+Semporna,2021,Sabah,269
+Semporna,2022,Sabah,169
+Semporna,2023,Sabah,220
+Semporna,2024,Sabah,197
+Sentul,2015,W.P. Kuala Lumpur,3383
+Sentul,2016,W.P. Kuala Lumpur,2925
+Sentul,2017,W.P. Kuala Lumpur,2847
+Sentul,2018,W.P. Kuala Lumpur,2510
+Sentul,2019,W.P. Kuala Lumpur,2515
+Sentul,2020,W.P. Kuala Lumpur,1849
+Sentul,2021,W.P. Kuala Lumpur,1545
+Sentul,2022,W.P. Kuala Lumpur,1164
+Sentul,2023,W.P. Kuala Lumpur,1101
+Sentul,2024,W.P. Kuala Lumpur,731
+Sepang,2015,Selangor,969
+Sepang,2016,Selangor,1173
+Sepang,2017,Selangor,782
+Sepang,2018,Selangor,703
+Sepang,2019,Selangor,678
+Sepang,2020,Selangor,571
+Sepang,2021,Selangor,550
+Sepang,2022,Selangor,627
+Sepang,2023,Selangor,712
+Sepang,2024,Selangor,480
+Serdang,2015,Selangor,2443
+Serdang,2016,Selangor,2591
+Serdang,2017,Selangor,1820
+Serdang,2018,Selangor,1666
+Serdang,2019,Selangor,1584
+Serdang,2020,Selangor,1583
+Serdang,2021,Selangor,1468
+Serdang,2022,Selangor,1038
+Serdang,2023,Selangor,953
+Serdang,2024,Selangor,732
+Seremban,2015,Negeri Sembilan,1855
+Seremban,2016,Negeri Sembilan,1741
+Seremban,2017,Negeri Sembilan,1530
+Seremban,2018,Negeri Sembilan,1428
+Seremban,2019,Negeri Sembilan,1273
+Seremban,2020,Negeri Sembilan,879
+Seremban,2021,Negeri Sembilan,684
+Seremban,2022,Negeri Sembilan,698
+Seremban,2023,Negeri Sembilan,762
+Seremban,2024,Negeri Sembilan,394
+Seri Alam,2015,Johor,1874
+Seri Alam,2016,Johor,1801
+Seri Alam,2017,Johor,1474
+Seri Alam,2018,Johor,1384
+Seri Alam,2019,Johor,1490
+Seri Alam,2020,Johor,1315
+Seri Alam,2021,Johor,889
+Seri Alam,2022,Johor,783
+Seri Alam,2023,Johor,871
+Seri Alam,2024,Johor,628
+Serian,2015,Sarawak,133
+Serian,2016,Sarawak,130
+Serian,2017,Sarawak,145
+Serian,2018,Sarawak,121
+Serian,2019,Sarawak,122
+Serian,2020,Sarawak,95
+Serian,2021,Sarawak,102
+Serian,2022,Sarawak,135
+Serian,2023,Sarawak,117
+Serian,2024,Sarawak,109
+Setiu,2015,Terengganu,133
+Setiu,2016,Terengganu,109
+Setiu,2017,Terengganu,109
+Setiu,2018,Terengganu,107
+Setiu,2019,Terengganu,104
+Setiu,2020,Terengganu,78
+Setiu,2021,Terengganu,43
+Setiu,2022,Terengganu,51
+Setiu,2023,Terengganu,40
+Setiu,2024,Terengganu,27
+Shah Alam,2015,Selangor,1905
+Shah Alam,2016,Selangor,1904
+Shah Alam,2017,Selangor,1611
+Shah Alam,2018,Selangor,1399
+Shah Alam,2019,Selangor,1112
+Shah Alam,2020,Selangor,866
+Shah Alam,2021,Selangor,853
+Shah Alam,2022,Selangor,782
+Shah Alam,2023,Selangor,792
+Shah Alam,2024,Selangor,425
+Sibu,2015,Sarawak,910
+Sibu,2016,Sarawak,810
+Sibu,2017,Sarawak,756
+Sibu,2018,Sarawak,697
+Sibu,2019,Sarawak,907
+Sibu,2020,Sarawak,806
+Sibu,2021,Sarawak,534
+Sibu,2022,Sarawak,438
+Sibu,2023,Sarawak,518
+Sibu,2024,Sarawak,457
+Sik,2015,Kedah,90
+Sik,2016,Kedah,106
+Sik,2017,Kedah,66
+Sik,2018,Kedah,70
+Sik,2019,Kedah,60
+Sik,2020,Kedah,42
+Sik,2021,Kedah,36
+Sik,2022,Kedah,54
+Sik,2023,Kedah,53
+Sik,2024,Kedah,31
+Simunjan,2015,Sarawak,46
+Simunjan,2016,Sarawak,53
+Simunjan,2017,Sarawak,34
+Simunjan,2018,Sarawak,39
+Simunjan,2019,Sarawak,56
+Simunjan,2020,Sarawak,39
+Simunjan,2021,Sarawak,32
+Simunjan,2022,Sarawak,36
+Simunjan,2023,Sarawak,46
+Simunjan,2024,Sarawak,38
+Sipitang,2015,Sabah,136
+Sipitang,2016,Sabah,118
+Sipitang,2017,Sabah,102
+Sipitang,2018,Sabah,99
+Sipitang,2019,Sabah,99
+Sipitang,2020,Sabah,44
+Sipitang,2021,Sabah,54
+Sipitang,2022,Sabah,31
+Sipitang,2023,Sabah,22
+Sipitang,2024,Sabah,6
+Song,2015,Sarawak,7
+Song,2016,Sarawak,7
+Song,2017,Sarawak,7
+Song,2018,Sarawak,12
+Song,2019,Sarawak,7
+Song,2020,Sarawak,10
+Song,2021,Sarawak,7
+Song,2022,Sarawak,12
+Song,2023,Sarawak,9
+Song,2024,Sarawak,10
+Sri Aman,2015,Sarawak,120
+Sri Aman,2016,Sarawak,118
+Sri Aman,2017,Sarawak,116
+Sri Aman,2018,Sarawak,99
+Sri Aman,2019,Sarawak,108
+Sri Aman,2020,Sarawak,105
+Sri Aman,2021,Sarawak,92
+Sri Aman,2022,Sarawak,110
+Sri Aman,2023,Sarawak,84
+Sri Aman,2024,Sarawak,88
+Subang Jaya,2015,Selangor,1883
+Subang Jaya,2016,Selangor,2077
+Subang Jaya,2017,Selangor,1465
+Subang Jaya,2018,Selangor,1238
+Subang Jaya,2019,Selangor,1116
+Subang Jaya,2020,Selangor,1064
+Subang Jaya,2021,Selangor,776
+Subang Jaya,2022,Selangor,777
+Subang Jaya,2023,Selangor,886
+Subang Jaya,2024,Selangor,467
+Sungai Buloh,2015,Selangor,1506
+Sungai Buloh,2016,Selangor,1490
+Sungai Buloh,2017,Selangor,1300
+Sungai Buloh,2018,Selangor,1078
+Sungai Buloh,2019,Selangor,984
+Sungai Buloh,2020,Selangor,694
+Sungai Buloh,2021,Selangor,624
+Sungai Buloh,2022,Selangor,607
+Sungai Buloh,2023,Selangor,695
+Sungai Buloh,2024,Selangor,362
+Sungai Siput,2015,Perak,148
+Sungai Siput,2016,Perak,133
+Sungai Siput,2017,Perak,135
+Sungai Siput,2018,Perak,119
+Sungai Siput,2019,Perak,115
+Sungai Siput,2020,Perak,88
+Sungai Siput,2021,Perak,55
+Sungai Siput,2022,Perak,79
+Sungai Siput,2023,Perak,78
+Sungai Siput,2024,Perak,53
+Taiping,2015,Perak,903
+Taiping,2016,Perak,796
+Taiping,2017,Perak,731
+Taiping,2018,Perak,739
+Taiping,2019,Perak,682
+Taiping,2020,Perak,480
+Taiping,2021,Perak,338
+Taiping,2022,Perak,349
+Taiping,2023,Perak,351
+Taiping,2024,Perak,214
+Tampin,2015,Negeri Sembilan,293
+Tampin,2016,Negeri Sembilan,294
+Tampin,2017,Negeri Sembilan,210
+Tampin,2018,Negeri Sembilan,212
+Tampin,2019,Negeri Sembilan,163
+Tampin,2020,Negeri Sembilan,132
+Tampin,2021,Negeri Sembilan,114
+Tampin,2022,Negeri Sembilan,107
+Tampin,2023,Negeri Sembilan,64
+Tampin,2024,Negeri Sembilan,31
+Tanah Merah,2015,Kelantan,275
+Tanah Merah,2016,Kelantan,270
+Tanah Merah,2017,Kelantan,264
+Tanah Merah,2018,Kelantan,216
+Tanah Merah,2019,Kelantan,230
+Tanah Merah,2020,Kelantan,175
+Tanah Merah,2021,Kelantan,139
+Tanah Merah,2022,Kelantan,190
+Tanah Merah,2023,Kelantan,186
+Tanah Merah,2024,Kelantan,142
+Tanjong Malim,2015,Perak,172
+Tanjong Malim,2016,Perak,156
+Tanjong Malim,2017,Perak,148
+Tanjong Malim,2018,Perak,142
+Tanjong Malim,2019,Perak,140
+Tanjong Malim,2020,Perak,95
+Tanjong Malim,2021,Perak,68
+Tanjong Malim,2022,Perak,79
+Tanjong Malim,2023,Perak,90
+Tanjong Malim,2024,Perak,57
+Tapah,2015,Perak,209
+Tapah,2016,Perak,201
+Tapah,2017,Perak,183
+Tapah,2018,Perak,187
+Tapah,2019,Perak,178
+Tapah,2020,Perak,134
+Tapah,2021,Perak,117
+Tapah,2022,Perak,101
+Tapah,2023,Perak,157
+Tapah,2024,Perak,105
+Tatau,2015,Sarawak,25
+Tatau,2016,Sarawak,26
+Tatau,2017,Sarawak,17
+Tatau,2018,Sarawak,29
+Tatau,2019,Sarawak,21
+Tatau,2020,Sarawak,21
+Tatau,2021,Sarawak,13
+Tatau,2022,Sarawak,21
+Tatau,2023,Sarawak,18
+Tatau,2024,Sarawak,16
+Tawau,2015,Sabah,1014
+Tawau,2016,Sabah,981
+Tawau,2017,Sabah,1007
+Tawau,2018,Sabah,900
+Tawau,2019,Sabah,890
+Tawau,2020,Sabah,432
+Tawau,2021,Sabah,353
+Tawau,2022,Sabah,757
+Tawau,2023,Sabah,795
+Tawau,2024,Sabah,515
+Temerloh,2015,Pahang,357
+Temerloh,2016,Pahang,312
+Temerloh,2017,Pahang,328
+Temerloh,2018,Pahang,298
+Temerloh,2019,Pahang,301
+Temerloh,2020,Pahang,247
+Temerloh,2021,Pahang,198
+Temerloh,2022,Pahang,181
+Temerloh,2023,Pahang,205
+Temerloh,2024,Pahang,160
+Tenom,2015,Sabah,46
+Tenom,2016,Sabah,52
+Tenom,2017,Sabah,46
+Tenom,2018,Sabah,51
+Tenom,2019,Sabah,38
+Tenom,2020,Sabah,23
+Tenom,2021,Sabah,36
+Tenom,2022,Sabah,40
+Tenom,2023,Sabah,55
+Tenom,2024,Sabah,39
+Timur Laut,2015,Pulau Pinang,1658
+Timur Laut,2016,Pulau Pinang,1709
+Timur Laut,2017,Pulau Pinang,1548
+Timur Laut,2018,Pulau Pinang,1363
+Timur Laut,2019,Pulau Pinang,1356
+Timur Laut,2020,Pulau Pinang,1203
+Timur Laut,2021,Pulau Pinang,1202
+Timur Laut,2022,Pulau Pinang,1180
+Timur Laut,2023,Pulau Pinang,1241
+Timur Laut,2024,Pulau Pinang,1042
+Tuaran,2015,Sabah,142
+Tuaran,2016,Sabah,125
+Tuaran,2017,Sabah,124
+Tuaran,2018,Sabah,124
+Tuaran,2019,Sabah,102
+Tuaran,2020,Sabah,71
+Tuaran,2021,Sabah,57
+Tuaran,2022,Sabah,60
+Tuaran,2023,Sabah,69
+Tuaran,2024,Sabah,41
+Tumpat,2015,Kelantan,401
+Tumpat,2016,Kelantan,358
+Tumpat,2017,Kelantan,351
+Tumpat,2018,Kelantan,330
+Tumpat,2019,Kelantan,307
+Tumpat,2020,Kelantan,253
+Tumpat,2021,Kelantan,183
+Tumpat,2022,Kelantan,208
+Tumpat,2023,Kelantan,186
+Tumpat,2024,Kelantan,143
+W.P. Labuan,2015,Sabah,269
+W.P. Labuan,2016,Sabah,216
+W.P. Labuan,2017,Sabah,204
+W.P. Labuan,2018,Sabah,266
+W.P. Labuan,2019,Sabah,252
+W.P. Labuan,2020,Sabah,185
+W.P. Labuan,2021,Sabah,141
+W.P. Labuan,2022,Sabah,111
+W.P. Labuan,2023,Sabah,128
+W.P. Labuan,2024,Sabah,106
+W.P. Putrajaya,2015,W.P. Kuala Lumpur,600
+W.P. Putrajaya,2016,W.P. Kuala Lumpur,838
+W.P. Putrajaya,2017,W.P. Kuala Lumpur,255
+W.P. Putrajaya,2018,W.P. Kuala Lumpur,211
+W.P. Putrajaya,2019,W.P. Kuala Lumpur,246
+W.P. Putrajaya,2020,W.P. Kuala Lumpur,131
+W.P. Putrajaya,2021,W.P. Kuala Lumpur,91
+W.P. Putrajaya,2022,W.P. Kuala Lumpur,84
+W.P. Putrajaya,2023,W.P. Kuala Lumpur,70
+W.P. Putrajaya,2024,W.P. Kuala Lumpur,-118
+Wangsa Maju,2015,W.P. Kuala Lumpur,3653
+Wangsa Maju,2016,W.P. Kuala Lumpur,3607
+Wangsa Maju,2017,W.P. Kuala Lumpur,2812
+Wangsa Maju,2018,W.P. Kuala Lumpur,2326
+Wangsa Maju,2019,W.P. Kuala Lumpur,1976
+Wangsa Maju,2020,W.P. Kuala Lumpur,1437
+Wangsa Maju,2021,W.P. Kuala Lumpur,1081
+Wangsa Maju,2022,W.P. Kuala Lumpur,888
+Wangsa Maju,2023,W.P. Kuala Lumpur,838
+Wangsa Maju,2024,W.P. Kuala Lumpur,88
+Yan,2015,Kedah,163
+Yan,2016,Kedah,146
+Yan,2017,Kedah,140
+Yan,2018,Kedah,155
+Yan,2019,Kedah,128
+Yan,2020,Kedah,102
+Yan,2021,Kedah,80
+Yan,2022,Kedah,89
+Yan,2023,Kedah,96
+Yan,2024,Kedah,71

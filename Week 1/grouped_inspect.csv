@@ -1,0 +1,1249 @@
+,district,year,state,category,type,crimes
+0,Alor Gajah,2016,Melaka,assault,all,436
+1,Alor Gajah,2017,Melaka,assault,all,376
+2,Alor Gajah,2018,Melaka,assault,all,334
+3,Alor Gajah,2019,Melaka,assault,all,341
+4,Alor Gajah,2020,Melaka,assault,all,265
+5,Alor Gajah,2021,Melaka,assault,all,249
+6,Alor Gajah,2022,Melaka,assault,all,259
+7,Alor Gajah,2023,Melaka,assault,all,285
+8,Ampang Jaya,2016,Selangor,assault,all,3104
+9,Ampang Jaya,2017,Selangor,assault,all,2667
+10,Ampang Jaya,2018,Selangor,assault,all,2399
+11,Ampang Jaya,2019,Selangor,assault,all,2163
+12,Ampang Jaya,2020,Selangor,assault,all,1899
+13,Ampang Jaya,2021,Selangor,assault,all,1295
+14,Ampang Jaya,2022,Selangor,assault,all,992
+15,Ampang Jaya,2023,Selangor,assault,all,1174
+16,Arau,2016,Perlis,assault,all,154
+17,Arau,2017,Perlis,assault,all,135
+18,Arau,2018,Perlis,assault,all,142
+19,Arau,2019,Perlis,assault,all,136
+20,Arau,2020,Perlis,assault,all,117
+21,Arau,2021,Perlis,assault,all,88
+22,Arau,2022,Perlis,assault,all,83
+23,Arau,2023,Perlis,assault,all,96
+24,Bachok,2016,Kelantan,assault,all,375
+25,Bachok,2017,Kelantan,assault,all,309
+26,Bachok,2018,Kelantan,assault,all,258
+27,Bachok,2019,Kelantan,assault,all,242
+28,Bachok,2020,Kelantan,assault,all,204
+29,Bachok,2021,Kelantan,assault,all,206
+30,Bachok,2022,Kelantan,assault,all,200
+31,Bachok,2023,Kelantan,assault,all,160
+32,Baling,2016,Kedah,assault,all,420
+33,Baling,2017,Kedah,assault,all,320
+34,Baling,2018,Kedah,assault,all,336
+35,Baling,2019,Kedah,assault,all,306
+36,Baling,2020,Kedah,assault,all,213
+37,Baling,2021,Kedah,assault,all,208
+38,Baling,2022,Kedah,assault,all,315
+39,Baling,2023,Kedah,assault,all,292
+40,Bandar Baharu,2020,Kedah,assault,all,35
+41,Bandar Baharu,2021,Kedah,assault,all,34
+42,Bandar Baharu,2022,Kedah,assault,all,51
+43,Bandar Baharu,2023,Kedah,assault,all,45
+44,Bandar Bharu,2016,Kedah,assault,all,72
+45,Bandar Bharu,2017,Kedah,assault,all,68
+46,Bandar Bharu,2018,Kedah,assault,all,66
+47,Bandar Bharu,2019,Kedah,assault,all,58
+48,Barat Daya,2016,Pulau Pinang,assault,all,538
+49,Barat Daya,2017,Pulau Pinang,assault,all,521
+50,Barat Daya,2018,Pulau Pinang,assault,all,491
+51,Barat Daya,2019,Pulau Pinang,assault,all,508
+52,Barat Daya,2020,Pulau Pinang,assault,all,333
+53,Barat Daya,2021,Pulau Pinang,assault,all,367
+54,Barat Daya,2022,Pulau Pinang,assault,all,352
+55,Barat Daya,2023,Pulau Pinang,assault,all,407
+56,Batu Gajah,2016,Perak,assault,all,120
+57,Batu Gajah,2017,Perak,assault,all,91
+58,Batu Gajah,2018,Perak,assault,all,92
+59,Batu Gajah,2019,Perak,assault,all,105
+60,Batu Gajah,2020,Perak,assault,all,77
+61,Batu Gajah,2021,Perak,assault,all,68
+62,Batu Gajah,2022,Perak,assault,all,97
+63,Batu Gajah,2023,Perak,assault,all,105
+64,Batu Pahat,2016,Johor,assault,all,781
+65,Batu Pahat,2017,Johor,assault,all,681
+66,Batu Pahat,2018,Johor,assault,all,688
+67,Batu Pahat,2019,Johor,assault,all,663
+68,Batu Pahat,2020,Johor,assault,all,542
+69,Batu Pahat,2021,Johor,assault,all,260
+70,Batu Pahat,2022,Johor,assault,all,314
+71,Batu Pahat,2023,Johor,assault,all,373
+72,Bau,2016,Sarawak,assault,all,55
+73,Bau,2017,Sarawak,assault,all,48
+74,Bau,2018,Sarawak,assault,all,128
+75,Bau,2019,Sarawak,assault,all,47
+76,Bau,2020,Sarawak,assault,all,35
+77,Bau,2021,Sarawak,assault,all,33
+78,Bau,2022,Sarawak,assault,all,58
+79,Bau,2023,Sarawak,assault,all,76
+80,Beaufort,2016,Sabah,assault,all,135
+81,Beaufort,2017,Sabah,assault,all,158
+82,Beaufort,2018,Sabah,assault,all,188
+83,Beaufort,2019,Sabah,assault,all,156
+84,Beaufort,2020,Sabah,assault,all,80
+85,Beaufort,2021,Sabah,assault,all,58
+86,Beaufort,2022,Sabah,assault,all,52
+87,Beaufort,2023,Sabah,assault,all,60
+88,Belaga,2016,Sarawak,assault,all,72
+89,Belaga,2017,Sarawak,assault,all,73
+90,Belaga,2018,Sarawak,assault,all,48
+91,Belaga,2019,Sarawak,assault,all,32
+92,Belaga,2020,Sarawak,assault,all,24
+93,Belaga,2021,Sarawak,assault,all,26
+94,Belaga,2022,Sarawak,assault,all,18
+95,Belaga,2023,Sarawak,assault,all,34
+96,Beluran,2016,Sabah,assault,all,58
+97,Beluran,2017,Sabah,assault,all,77
+98,Beluran,2018,Sabah,assault,all,75
+99,Beluran,2019,Sabah,assault,all,67
+100,Beluran,2020,Sabah,assault,all,50
+101,Beluran,2021,Sabah,assault,all,53
+102,Beluran,2022,Sabah,assault,all,67
+103,Beluran,2023,Sabah,assault,all,84
+104,Bentong,2016,Pahang,assault,all,399
+105,Bentong,2017,Pahang,assault,all,327
+106,Bentong,2018,Pahang,assault,all,536
+107,Bentong,2019,Pahang,assault,all,524
+108,Bentong,2020,Pahang,assault,all,278
+109,Bentong,2021,Pahang,assault,all,167
+110,Bentong,2022,Pahang,assault,all,236
+111,Bentong,2023,Pahang,assault,all,246
+112,Bera,2016,Pahang,assault,all,184
+113,Bera,2017,Pahang,assault,all,140
+114,Bera,2018,Pahang,assault,all,130
+115,Bera,2019,Pahang,assault,all,125
+116,Bera,2020,Pahang,assault,all,113
+117,Bera,2021,Pahang,assault,all,116
+118,Bera,2022,Pahang,assault,all,127
+119,Bera,2023,Pahang,assault,all,120
+120,Besut,2016,Terengganu,assault,all,498
+121,Besut,2017,Terengganu,assault,all,484
+122,Besut,2018,Terengganu,assault,all,367
+123,Besut,2019,Terengganu,assault,all,409
+124,Besut,2020,Terengganu,assault,all,405
+125,Besut,2021,Terengganu,assault,all,301
+126,Besut,2022,Terengganu,assault,all,239
+127,Besut,2023,Terengganu,assault,all,230
+128,Betong,2016,Sarawak,assault,all,76
+129,Betong,2017,Sarawak,assault,all,63
+130,Betong,2018,Sarawak,assault,all,68
+131,Betong,2019,Sarawak,assault,all,67
+132,Betong,2020,Sarawak,assault,all,72
+133,Betong,2021,Sarawak,assault,all,84
+134,Betong,2022,Sarawak,assault,all,82
+135,Betong,2023,Sarawak,assault,all,77
+136,Bintulu,2016,Sarawak,assault,all,682
+137,Bintulu,2017,Sarawak,assault,all,585
+138,Bintulu,2018,Sarawak,assault,all,463
+139,Bintulu,2019,Sarawak,assault,all,469
+140,Bintulu,2020,Sarawak,assault,all,349
+141,Bintulu,2021,Sarawak,assault,all,313
+142,Bintulu,2022,Sarawak,assault,all,404
+143,Bintulu,2023,Sarawak,assault,all,374
+144,Brickfields,2016,W.P. Kuala Lumpur,assault,all,2754
+145,Brickfields,2017,W.P. Kuala Lumpur,assault,all,2020
+146,Brickfields,2018,W.P. Kuala Lumpur,assault,all,1915
+147,Brickfields,2019,W.P. Kuala Lumpur,assault,all,1886
+148,Brickfields,2020,W.P. Kuala Lumpur,assault,all,1549
+149,Brickfields,2021,W.P. Kuala Lumpur,assault,all,990
+150,Brickfields,2022,W.P. Kuala Lumpur,assault,all,801
+151,Brickfields,2023,W.P. Kuala Lumpur,assault,all,780
+152,Cameron Highland,2016,Pahang,assault,all,78
+153,Cameron Highland,2017,Pahang,assault,all,76
+154,Cameron Highland,2018,Pahang,assault,all,66
+155,Cameron Highland,2019,Pahang,assault,all,45
+156,Cameron Highlands,2020,Pahang,assault,all,36
+157,Cameron Highlands,2021,Pahang,assault,all,38
+158,Cameron Highlands,2022,Pahang,assault,all,45
+159,Cameron Highlands,2023,Pahang,assault,all,50
+160,Cheras,2016,W.P. Kuala Lumpur,assault,all,2493
+161,Cheras,2017,W.P. Kuala Lumpur,assault,all,1942
+162,Cheras,2018,W.P. Kuala Lumpur,assault,all,1649
+163,Cheras,2019,W.P. Kuala Lumpur,assault,all,1635
+164,Cheras,2020,W.P. Kuala Lumpur,assault,all,1295
+165,Cheras,2021,W.P. Kuala Lumpur,assault,all,1058
+166,Cheras,2022,W.P. Kuala Lumpur,assault,all,849
+167,Cheras,2023,W.P. Kuala Lumpur,assault,all,758
+168,Dalat,2016,Sarawak,assault,all,34
+169,Dalat,2017,Sarawak,assault,all,33
+170,Dalat,2018,Sarawak,assault,all,26
+171,Dalat,2019,Sarawak,assault,all,19
+172,Dalat,2020,Sarawak,assault,all,14
+173,Dalat,2021,Sarawak,assault,all,9
+174,Dalat,2022,Sarawak,assault,all,8
+175,Dalat,2023,Sarawak,assault,all,11
+176,Dang Wangi,2016,W.P. Kuala Lumpur,assault,all,4372
+177,Dang Wangi,2017,W.P. Kuala Lumpur,assault,all,3606
+178,Dang Wangi,2018,W.P. Kuala Lumpur,assault,all,3516
+179,Dang Wangi,2019,W.P. Kuala Lumpur,assault,all,2914
+180,Dang Wangi,2020,W.P. Kuala Lumpur,assault,all,2040
+181,Dang Wangi,2021,W.P. Kuala Lumpur,assault,all,1411
+182,Dang Wangi,2022,W.P. Kuala Lumpur,assault,all,1128
+183,Dang Wangi,2023,W.P. Kuala Lumpur,assault,all,993
+184,Dungun,2016,Terengganu,assault,all,378
+185,Dungun,2017,Terengganu,assault,all,319
+186,Dungun,2018,Terengganu,assault,all,284
+187,Dungun,2019,Terengganu,assault,all,247
+188,Dungun,2020,Terengganu,assault,all,261
+189,Dungun,2021,Terengganu,assault,all,213
+190,Dungun,2022,Terengganu,assault,all,189
+191,Dungun,2023,Terengganu,assault,all,173
+192,Gerik,2016,Perak,assault,all,86
+193,Gerik,2017,Perak,assault,all,78
+194,Gerik,2018,Perak,assault,all,69
+195,Gerik,2019,Perak,assault,all,83
+196,Gerik,2020,Perak,assault,all,70
+197,Gerik,2021,Perak,assault,all,51
+198,Gerik,2022,Perak,assault,all,60
+199,Gerik,2023,Perak,assault,all,69
+200,Gombak,2016,Selangor,assault,all,3716
+201,Gombak,2017,Selangor,assault,all,3084
+202,Gombak,2018,Selangor,assault,all,2494
+203,Gombak,2019,Selangor,assault,all,2427
+204,Gombak,2020,Selangor,assault,all,2116
+205,Gombak,2021,Selangor,assault,all,1891
+206,Gombak,2022,Selangor,assault,all,1558
+207,Gombak,2023,Selangor,assault,all,1772
+208,Gua Musang,2016,Kelantan,assault,all,233
+209,Gua Musang,2017,Kelantan,assault,all,198
+210,Gua Musang,2018,Kelantan,assault,all,149
+211,Gua Musang,2019,Kelantan,assault,all,152
+212,Gua Musang,2020,Kelantan,assault,all,116
+213,Gua Musang,2021,Kelantan,assault,all,99
+214,Gua Musang,2022,Kelantan,assault,all,118
+215,Gua Musang,2023,Kelantan,assault,all,116
+216,Hilir Perak,2016,Perak,assault,all,601
+217,Hilir Perak,2017,Perak,assault,all,560
+218,Hilir Perak,2018,Perak,assault,all,560
+219,Hilir Perak,2019,Perak,assault,all,554
+220,Hilir Perak,2020,Perak,assault,all,450
+221,Hilir Perak,2021,Perak,assault,all,370
+222,Hilir Perak,2022,Perak,assault,all,363
+223,Hilir Perak,2023,Perak,assault,all,420
+224,Hulu Selangor,2016,Selangor,assault,all,493
+225,Hulu Selangor,2017,Selangor,assault,all,482
+226,Hulu Selangor,2018,Selangor,assault,all,455
+227,Hulu Selangor,2019,Selangor,assault,all,496
+228,Hulu Selangor,2020,Selangor,assault,all,590
+229,Hulu Selangor,2021,Selangor,assault,all,506
+230,Hulu Selangor,2022,Selangor,assault,all,329
+231,Hulu Selangor,2023,Selangor,assault,all,384
+232,Hulu Terengganu,2016,Terengganu,assault,all,155
+233,Hulu Terengganu,2017,Terengganu,assault,all,143
+234,Hulu Terengganu,2018,Terengganu,assault,all,103
+235,Hulu Terengganu,2019,Terengganu,assault,all,106
+236,Hulu Terengganu,2020,Terengganu,assault,all,124
+237,Hulu Terengganu,2021,Terengganu,assault,all,109
+238,Hulu Terengganu,2022,Terengganu,assault,all,101
+239,Hulu Terengganu,2023,Terengganu,assault,all,94
+240,Ipoh,2016,Perak,assault,all,2203
+241,Ipoh,2017,Perak,assault,all,2081
+242,Ipoh,2018,Perak,assault,all,1964
+243,Ipoh,2019,Perak,assault,all,1865
+244,Ipoh,2020,Perak,assault,all,1088
+245,Ipoh,2021,Perak,assault,all,1078
+246,Ipoh,2022,Perak,assault,all,1359
+247,Ipoh,2023,Perak,assault,all,1450
+248,Iskandar Puteri,2016,Johor,assault,all,0
+249,Iskandar Puteri,2017,Johor,assault,all,922
+250,Iskandar Puteri,2018,Johor,assault,all,933
+251,Iskandar Puteri,2019,Johor,assault,all,954
+252,Iskandar Puteri,2020,Johor,assault,all,634
+253,Iskandar Puteri,2021,Johor,assault,all,400
+254,Iskandar Puteri,2022,Johor,assault,all,436
+255,Iskandar Puteri,2023,Johor,assault,all,571
+256,Jasin,2016,Melaka,assault,all,254
+257,Jasin,2017,Melaka,assault,all,258
+258,Jasin,2018,Melaka,assault,all,230
+259,Jasin,2019,Melaka,assault,all,241
+260,Jasin,2020,Melaka,assault,all,173
+261,Jasin,2021,Melaka,assault,all,162
+262,Jasin,2022,Melaka,assault,all,164
+263,Jasin,2023,Melaka,assault,all,188
+264,Jelebu,2016,Negeri Sembilan,assault,all,85
+265,Jelebu,2017,Negeri Sembilan,assault,all,75
+266,Jelebu,2018,Negeri Sembilan,assault,all,71
+267,Jelebu,2019,Negeri Sembilan,assault,all,67
+268,Jelebu,2020,Negeri Sembilan,assault,all,47
+269,Jelebu,2021,Negeri Sembilan,assault,all,39
+270,Jelebu,2022,Negeri Sembilan,assault,all,67
+271,Jelebu,2023,Negeri Sembilan,assault,all,60
+272,Jeli,2016,Kelantan,assault,all,46
+273,Jeli,2017,Kelantan,assault,all,49
+274,Jeli,2018,Kelantan,assault,all,52
+275,Jeli,2019,Kelantan,assault,all,50
+276,Jeli,2020,Kelantan,assault,all,38
+277,Jeli,2021,Kelantan,assault,all,33
+278,Jeli,2022,Kelantan,assault,all,43
+279,Jeli,2023,Kelantan,assault,all,44
+280,Jempol,2016,Negeri Sembilan,assault,all,272
+281,Jempol,2017,Negeri Sembilan,assault,all,245
+282,Jempol,2018,Negeri Sembilan,assault,all,240
+283,Jempol,2019,Negeri Sembilan,assault,all,210
+284,Jempol,2020,Negeri Sembilan,assault,all,234
+285,Jempol,2021,Negeri Sembilan,assault,all,183
+286,Jempol,2022,Negeri Sembilan,assault,all,153
+287,Jempol,2023,Negeri Sembilan,assault,all,205
+288,Jerantut,2016,Pahang,assault,all,223
+289,Jerantut,2017,Pahang,assault,all,193
+290,Jerantut,2018,Pahang,assault,all,191
+291,Jerantut,2019,Pahang,assault,all,186
+292,Jerantut,2020,Pahang,assault,all,125
+293,Jerantut,2021,Pahang,assault,all,116
+294,Jerantut,2022,Pahang,assault,all,112
+295,Jerantut,2023,Pahang,assault,all,118
+296,Johor Bahru Selatan,2016,Johor,assault,all,3779
+297,Johor Bahru Selatan,2017,Johor,assault,all,3231
+298,Johor Bahru Selatan,2018,Johor,assault,all,2516
+299,Johor Bahru Selatan,2019,Johor,assault,all,2195
+300,Johor Bahru Selatan,2020,Johor,assault,all,1491
+301,Johor Bahru Selatan,2021,Johor,assault,all,759
+302,Johor Bahru Selatan,2022,Johor,assault,all,946
+303,Johor Bahru Selatan,2023,Johor,assault,all,1105
+304,Johor Bahru Utara,2016,Johor,assault,all,2156
+305,Johor Bahru Utara,2017,Johor,assault,all,1649
+306,Johor Bahru Utara,2018,Johor,assault,all,1649
+307,Johor Bahru Utara,2019,Johor,assault,all,1541
+308,Johor Bahru Utara,2020,Johor,assault,all,1006
+309,Johor Bahru Utara,2021,Johor,assault,all,547
+310,Johor Bahru Utara,2022,Johor,assault,all,502
+311,Johor Bahru Utara,2023,Johor,assault,all,545
+312,Julau,2016,Sarawak,assault,all,13
+313,Julau,2017,Sarawak,assault,all,11
+314,Julau,2018,Sarawak,assault,all,8
+315,Julau,2019,Sarawak,assault,all,7
+316,Julau,2020,Sarawak,assault,all,10
+317,Julau,2021,Sarawak,assault,all,4
+318,Julau,2022,Sarawak,assault,all,15
+319,Julau,2023,Sarawak,assault,all,19
+320,Kajang,2016,Selangor,assault,all,3936
+321,Kajang,2017,Selangor,assault,all,3612
+322,Kajang,2018,Selangor,assault,all,2403
+323,Kajang,2019,Selangor,assault,all,2251
+324,Kajang,2020,Selangor,assault,all,2057
+325,Kajang,2021,Selangor,assault,all,1817
+326,Kajang,2022,Selangor,assault,all,1585
+327,Kajang,2023,Selangor,assault,all,1589
+328,Kampar,2016,Perak,assault,all,195
+329,Kampar,2017,Perak,assault,all,182
+330,Kampar,2018,Perak,assault,all,192
+331,Kampar,2019,Perak,assault,all,201
+332,Kampar,2020,Perak,assault,all,113
+333,Kampar,2021,Perak,assault,all,91
+334,Kampar,2022,Perak,assault,all,92
+335,Kampar,2023,Perak,assault,all,91
+336,Kangar,2016,Perlis,assault,all,414
+337,Kangar,2017,Perlis,assault,all,361
+338,Kangar,2018,Perlis,assault,all,346
+339,Kangar,2019,Perlis,assault,all,319
+340,Kangar,2020,Perlis,assault,all,311
+341,Kangar,2021,Perlis,assault,all,286
+342,Kangar,2022,Perlis,assault,all,219
+343,Kangar,2023,Perlis,assault,all,175
+344,Kanowit,2016,Sarawak,assault,all,24
+345,Kanowit,2017,Sarawak,assault,all,28
+346,Kanowit,2018,Sarawak,assault,all,15
+347,Kanowit,2019,Sarawak,assault,all,20
+348,Kanowit,2020,Sarawak,assault,all,19
+349,Kanowit,2021,Sarawak,assault,all,5
+350,Kanowit,2022,Sarawak,assault,all,8
+351,Kanowit,2023,Sarawak,assault,all,8
+352,Kapit,2016,Sarawak,assault,all,72
+353,Kapit,2017,Sarawak,assault,all,68
+354,Kapit,2018,Sarawak,assault,all,48
+355,Kapit,2019,Sarawak,assault,all,47
+356,Kapit,2020,Sarawak,assault,all,34
+357,Kapit,2021,Sarawak,assault,all,24
+358,Kapit,2022,Sarawak,assault,all,29
+359,Kapit,2023,Sarawak,assault,all,33
+360,Kemaman,2016,Terengganu,assault,all,412
+361,Kemaman,2017,Terengganu,assault,all,329
+362,Kemaman,2018,Terengganu,assault,all,274
+363,Kemaman,2019,Terengganu,assault,all,293
+364,Kemaman,2020,Terengganu,assault,all,383
+365,Kemaman,2021,Terengganu,assault,all,289
+366,Kemaman,2022,Terengganu,assault,all,316
+367,Kemaman,2023,Terengganu,assault,all,315
+368,Keningau,2016,Sabah,assault,all,227
+369,Keningau,2017,Sabah,assault,all,200
+370,Keningau,2018,Sabah,assault,all,186
+371,Keningau,2019,Sabah,assault,all,186
+372,Keningau,2020,Sabah,assault,all,139
+373,Keningau,2021,Sabah,assault,all,105
+374,Keningau,2022,Sabah,assault,all,97
+375,Keningau,2023,Sabah,assault,all,145
+376,Kerian,2016,Perak,assault,all,228
+377,Kerian,2017,Perak,assault,all,195
+378,Kerian,2018,Perak,assault,all,192
+379,Kerian,2019,Perak,assault,all,198
+380,Kerian,2020,Perak,assault,all,179
+381,Kerian,2021,Perak,assault,all,190
+382,Kerian,2022,Perak,assault,all,180
+383,Kerian,2023,Perak,assault,all,178
+384,Klang Selatan,2016,Selangor,assault,all,2374
+385,Klang Selatan,2017,Selangor,assault,all,2192
+386,Klang Selatan,2018,Selangor,assault,all,1927
+387,Klang Selatan,2019,Selangor,assault,all,1663
+388,Klang Selatan,2020,Selangor,assault,all,1412
+389,Klang Selatan,2021,Selangor,assault,all,1714
+390,Klang Selatan,2022,Selangor,assault,all,1260
+391,Klang Selatan,2023,Selangor,assault,all,1308
+392,Klang Utara,2016,Selangor,assault,all,1643
+393,Klang Utara,2017,Selangor,assault,all,1383
+394,Klang Utara,2018,Selangor,assault,all,1048
+395,Klang Utara,2019,Selangor,assault,all,961
+396,Klang Utara,2020,Selangor,assault,all,920
+397,Klang Utara,2021,Selangor,assault,all,841
+398,Klang Utara,2022,Selangor,assault,all,816
+399,Klang Utara,2023,Selangor,assault,all,878
+400,Kluang,2016,Johor,assault,all,682
+401,Kluang,2017,Johor,assault,all,652
+402,Kluang,2018,Johor,assault,all,602
+403,Kluang,2019,Johor,assault,all,585
+404,Kluang,2020,Johor,assault,all,517
+405,Kluang,2021,Johor,assault,all,301
+406,Kluang,2022,Johor,assault,all,270
+407,Kluang,2023,Johor,assault,all,364
+408,Kota Belud,2016,Sabah,assault,all,154
+409,Kota Belud,2017,Sabah,assault,all,217
+410,Kota Belud,2018,Sabah,assault,all,181
+411,Kota Belud,2019,Sabah,assault,all,143
+412,Kota Belud,2020,Sabah,assault,all,89
+413,Kota Belud,2021,Sabah,assault,all,104
+414,Kota Belud,2022,Sabah,assault,all,42
+415,Kota Belud,2023,Sabah,assault,all,35
+416,Kota Bharu,2016,Kelantan,assault,all,1861
+417,Kota Bharu,2017,Kelantan,assault,all,2000
+418,Kota Bharu,2018,Kelantan,assault,all,1597
+419,Kota Bharu,2019,Kelantan,assault,all,1484
+420,Kota Bharu,2020,Kelantan,assault,all,973
+421,Kota Bharu,2021,Kelantan,assault,all,799
+422,Kota Bharu,2022,Kelantan,assault,all,850
+423,Kota Bharu,2023,Kelantan,assault,all,815
+424,Kota Kinabalu,2016,Sabah,assault,all,1352
+425,Kota Kinabalu,2017,Sabah,assault,all,1538
+426,Kota Kinabalu,2018,Sabah,assault,all,1431
+427,Kota Kinabalu,2019,Sabah,assault,all,1234
+428,Kota Kinabalu,2020,Sabah,assault,all,1004
+429,Kota Kinabalu,2021,Sabah,assault,all,949
+430,Kota Kinabalu,2022,Sabah,assault,all,1290
+431,Kota Kinabalu,2023,Sabah,assault,all,996
+432,Kota Kinabatangan,2016,Sabah,assault,all,57
+433,Kota Kinabatangan,2017,Sabah,assault,all,61
+434,Kota Kinabatangan,2018,Sabah,assault,all,80
+435,Kota Kinabatangan,2019,Sabah,assault,all,77
+436,Kota Kinabatangan,2020,Sabah,assault,all,61
+437,Kota Kinabatangan,2021,Sabah,assault,all,69
+438,Kota Kinabatangan,2022,Sabah,assault,all,70
+439,Kota Kinabatangan,2023,Sabah,assault,all,88
+440,Kota Marudu,2016,Sabah,assault,all,69
+441,Kota Marudu,2017,Sabah,assault,all,102
+442,Kota Marudu,2018,Sabah,assault,all,118
+443,Kota Marudu,2019,Sabah,assault,all,112
+444,Kota Marudu,2020,Sabah,assault,all,68
+445,Kota Marudu,2021,Sabah,assault,all,59
+446,Kota Marudu,2022,Sabah,assault,all,81
+447,Kota Marudu,2023,Sabah,assault,all,80
+448,Kota Samarahan,2016,Sarawak,assault,all,303
+449,Kota Samarahan,2017,Sarawak,assault,all,330
+450,Kota Samarahan,2018,Sarawak,assault,all,347
+451,Kota Samarahan,2019,Sarawak,assault,all,381
+452,Kota Samarahan,2020,Sarawak,assault,all,445
+453,Kota Samarahan,2021,Sarawak,assault,all,335
+454,Kota Samarahan,2022,Sarawak,assault,all,310
+455,Kota Samarahan,2023,Sarawak,assault,all,267
+456,Kota Setar,2016,Kedah,assault,all,1992
+457,Kota Setar,2017,Kedah,assault,all,1552
+458,Kota Setar,2018,Kedah,assault,all,1407
+459,Kota Setar,2019,Kedah,assault,all,1288
+460,Kota Setar,2020,Kedah,assault,all,934
+461,Kota Setar,2021,Kedah,assault,all,925
+462,Kota Setar,2022,Kedah,assault,all,1205
+463,Kota Setar,2023,Kedah,assault,all,1173
+464,Kota Tinggi,2016,Johor,assault,all,565
+465,Kota Tinggi,2017,Johor,assault,all,583
+466,Kota Tinggi,2018,Johor,assault,all,542
+467,Kota Tinggi,2019,Johor,assault,all,471
+468,Kota Tinggi,2020,Johor,assault,all,440
+469,Kota Tinggi,2021,Johor,assault,all,223
+470,Kota Tinggi,2022,Johor,assault,all,209
+471,Kota Tinggi,2023,Johor,assault,all,250
+472,Kuala Kangsar,2016,Perak,assault,all,170
+473,Kuala Kangsar,2017,Perak,assault,all,139
+474,Kuala Kangsar,2018,Perak,assault,all,120
+475,Kuala Kangsar,2019,Perak,assault,all,121
+476,Kuala Kangsar,2020,Perak,assault,all,99
+477,Kuala Kangsar,2021,Perak,assault,all,73
+478,Kuala Kangsar,2022,Perak,assault,all,103
+479,Kuala Kangsar,2023,Perak,assault,all,99
+480,Kuala Krai,2016,Kelantan,assault,all,256
+481,Kuala Krai,2017,Kelantan,assault,all,254
+482,Kuala Krai,2018,Kelantan,assault,all,189
+483,Kuala Krai,2019,Kelantan,assault,all,164
+484,Kuala Krai,2020,Kelantan,assault,all,116
+485,Kuala Krai,2021,Kelantan,assault,all,68
+486,Kuala Krai,2022,Kelantan,assault,all,62
+487,Kuala Krai,2023,Kelantan,assault,all,63
+488,Kuala Langat,2016,Selangor,assault,all,752
+489,Kuala Langat,2017,Selangor,assault,all,641
+490,Kuala Langat,2018,Selangor,assault,all,524
+491,Kuala Langat,2019,Selangor,assault,all,490
+492,Kuala Langat,2020,Selangor,assault,all,480
+493,Kuala Langat,2021,Selangor,assault,all,509
+494,Kuala Langat,2022,Selangor,assault,all,520
+495,Kuala Langat,2023,Selangor,assault,all,468
+496,Kuala Lipis,2016,Pahang,assault,all,136
+497,Kuala Lipis,2017,Pahang,assault,all,125
+498,Kuala Lipis,2018,Pahang,assault,all,117
+499,Kuala Lipis,2019,Pahang,assault,all,107
+500,Kuala Lipis,2020,Pahang,assault,all,87
+501,Kuala Lipis,2021,Pahang,assault,all,80
+502,Kuala Lipis,2022,Pahang,assault,all,69
+503,Kuala Lipis,2023,Pahang,assault,all,78
+504,Kuala Muda,2016,Kedah,assault,all,2056
+505,Kuala Muda,2017,Kedah,assault,all,2077
+506,Kuala Muda,2018,Kedah,assault,all,1973
+507,Kuala Muda,2019,Kedah,assault,all,1809
+508,Kuala Muda,2020,Kedah,assault,all,1258
+509,Kuala Muda,2021,Kedah,assault,all,1187
+510,Kuala Muda,2022,Kedah,assault,all,1274
+511,Kuala Muda,2023,Kedah,assault,all,1318
+512,Kuala Pilah,2016,Negeri Sembilan,assault,all,279
+513,Kuala Pilah,2017,Negeri Sembilan,assault,all,248
+514,Kuala Pilah,2018,Negeri Sembilan,assault,all,195
+515,Kuala Pilah,2019,Negeri Sembilan,assault,all,195
+516,Kuala Pilah,2020,Negeri Sembilan,assault,all,148
+517,Kuala Pilah,2021,Negeri Sembilan,assault,all,97
+518,Kuala Pilah,2022,Negeri Sembilan,assault,all,117
+519,Kuala Pilah,2023,Negeri Sembilan,assault,all,115
+520,Kuala Selangor,2016,Selangor,assault,all,546
+521,Kuala Selangor,2017,Selangor,assault,all,418
+522,Kuala Selangor,2018,Selangor,assault,all,364
+523,Kuala Selangor,2019,Selangor,assault,all,439
+524,Kuala Selangor,2020,Selangor,assault,all,474
+525,Kuala Selangor,2021,Selangor,assault,all,513
+526,Kuala Selangor,2022,Selangor,assault,all,418
+527,Kuala Selangor,2023,Selangor,assault,all,492
+528,Kuala Terengganu,2016,Terengganu,assault,all,751
+529,Kuala Terengganu,2017,Terengganu,assault,all,701
+530,Kuala Terengganu,2018,Terengganu,assault,all,548
+531,Kuala Terengganu,2019,Terengganu,assault,all,576
+532,Kuala Terengganu,2020,Terengganu,assault,all,668
+533,Kuala Terengganu,2021,Terengganu,assault,all,491
+534,Kuala Terengganu,2022,Terengganu,assault,all,473
+535,Kuala Terengganu,2023,Terengganu,assault,all,416
+536,Kuantan,2016,Pahang,assault,all,1598
+537,Kuantan,2017,Pahang,assault,all,1644
+538,Kuantan,2018,Pahang,assault,all,1560
+539,Kuantan,2019,Pahang,assault,all,1274
+540,Kuantan,2020,Pahang,assault,all,889
+541,Kuantan,2021,Pahang,assault,all,835
+542,Kuantan,2022,Pahang,assault,all,673
+543,Kuantan,2023,Pahang,assault,all,601
+544,Kubang Pasu,2016,Kedah,assault,all,792
+545,Kubang Pasu,2017,Kedah,assault,all,765
+546,Kubang Pasu,2018,Kedah,assault,all,594
+547,Kubang Pasu,2019,Kedah,assault,all,501
+548,Kubang Pasu,2020,Kedah,assault,all,418
+549,Kubang Pasu,2021,Kedah,assault,all,294
+550,Kubang Pasu,2022,Kedah,assault,all,418
+551,Kubang Pasu,2023,Kedah,assault,all,403
+552,Kuching,2016,Sarawak,assault,all,1595
+553,Kuching,2017,Sarawak,assault,all,1554
+554,Kuching,2018,Sarawak,assault,all,1262
+555,Kuching,2019,Sarawak,assault,all,1372
+556,Kuching,2020,Sarawak,assault,all,1361
+557,Kuching,2021,Sarawak,assault,all,932
+558,Kuching,2022,Sarawak,assault,all,830
+559,Kuching,2023,Sarawak,assault,all,846
+560,Kudat,2016,Sabah,assault,all,59
+561,Kudat,2017,Sabah,assault,all,56
+562,Kudat,2018,Sabah,assault,all,54
+563,Kudat,2019,Sabah,assault,all,48
+564,Kudat,2020,Sabah,assault,all,34
+565,Kudat,2021,Sabah,assault,all,25
+566,Kudat,2022,Sabah,assault,all,38
+567,Kudat,2023,Sabah,assault,all,56
+568,Kulaijaya,2016,Johor,assault,all,773
+569,Kulaijaya,2017,Johor,assault,all,772
+570,Kulaijaya,2018,Johor,assault,all,749
+571,Kulaijaya,2019,Johor,assault,all,686
+572,Kulaijaya,2020,Johor,assault,all,375
+573,Kulaijaya,2021,Johor,assault,all,280
+574,Kulaijaya,2022,Johor,assault,all,295
+575,Kulaijaya,2023,Johor,assault,all,297
+576,Kulim,2016,Kedah,assault,all,1058
+577,Kulim,2017,Kedah,assault,all,1018
+578,Kulim,2018,Kedah,assault,all,858
+579,Kulim,2019,Kedah,assault,all,726
+580,Kulim,2020,Kedah,assault,all,515
+581,Kulim,2021,Kedah,assault,all,542
+582,Kulim,2022,Kedah,assault,all,688
+583,Kulim,2023,Kedah,assault,all,621
+584,Kunak,2016,Sabah,assault,all,86
+585,Kunak,2017,Sabah,assault,all,95
+586,Kunak,2018,Sabah,assault,all,49
+587,Kunak,2019,Sabah,assault,all,70
+588,Kunak,2020,Sabah,assault,all,45
+589,Kunak,2021,Sabah,assault,all,44
+590,Kunak,2022,Sabah,assault,all,37
+591,Kunak,2023,Sabah,assault,all,48
+592,Lahad Datu,2016,Sabah,assault,all,307
+593,Lahad Datu,2017,Sabah,assault,all,284
+594,Lahad Datu,2018,Sabah,assault,all,298
+595,Lahad Datu,2019,Sabah,assault,all,311
+596,Lahad Datu,2020,Sabah,assault,all,201
+597,Lahad Datu,2021,Sabah,assault,all,162
+598,Lahad Datu,2022,Sabah,assault,all,148
+599,Lahad Datu,2023,Sabah,assault,all,205
+600,Langkawi,2016,Kedah,assault,all,447
+601,Langkawi,2017,Kedah,assault,all,395
+602,Langkawi,2018,Kedah,assault,all,409
+603,Langkawi,2019,Kedah,assault,all,410
+604,Langkawi,2020,Kedah,assault,all,325
+605,Langkawi,2021,Kedah,assault,all,262
+606,Langkawi,2022,Kedah,assault,all,243
+607,Langkawi,2023,Kedah,assault,all,244
+608,Lawas,2016,Sarawak,assault,all,54
+609,Lawas,2017,Sarawak,assault,all,41
+610,Lawas,2018,Sarawak,assault,all,67
+611,Lawas,2019,Sarawak,assault,all,41
+612,Lawas,2020,Sarawak,assault,all,32
+613,Lawas,2021,Sarawak,assault,all,24
+614,Lawas,2022,Sarawak,assault,all,29
+615,Lawas,2023,Sarawak,assault,all,33
+616,Ledang,2016,Johor,assault,all,270
+617,Ledang,2017,Johor,assault,all,234
+618,Ledang,2018,Johor,assault,all,207
+619,Ledang,2019,Johor,assault,all,216
+620,Ledang,2020,Johor,assault,all,178
+621,Ledang,2021,Johor,assault,all,85
+622,Ledang,2022,Johor,assault,all,101
+623,Ledang,2023,Johor,assault,all,123
+624,Limbang,2016,Sarawak,assault,all,72
+625,Limbang,2017,Sarawak,assault,all,73
+626,Limbang,2018,Sarawak,assault,all,94
+627,Limbang,2019,Sarawak,assault,all,39
+628,Limbang,2020,Sarawak,assault,all,34
+629,Limbang,2021,Sarawak,assault,all,30
+630,Limbang,2022,Sarawak,assault,all,26
+631,Limbang,2023,Sarawak,assault,all,22
+632,Lubok Antu,2016,Sarawak,assault,all,15
+633,Lubok Antu,2017,Sarawak,assault,all,32
+634,Lubok Antu,2018,Sarawak,assault,all,34
+635,Lubok Antu,2019,Sarawak,assault,all,18
+636,Lubok Antu,2020,Sarawak,assault,all,27
+637,Lubok Antu,2021,Sarawak,assault,all,16
+638,Lubok Antu,2022,Sarawak,assault,all,19
+639,Lubok Antu,2023,Sarawak,assault,all,26
+640,Lundu,2016,Sarawak,assault,all,93
+641,Lundu,2017,Sarawak,assault,all,64
+642,Lundu,2018,Sarawak,assault,all,48
+643,Lundu,2019,Sarawak,assault,all,38
+644,Lundu,2020,Sarawak,assault,all,49
+645,Lundu,2021,Sarawak,assault,all,64
+646,Lundu,2022,Sarawak,assault,all,52
+647,Lundu,2023,Sarawak,assault,all,63
+648,Machang,2016,Kelantan,assault,all,233
+649,Machang,2017,Kelantan,assault,all,215
+650,Machang,2018,Kelantan,assault,all,380
+651,Machang,2019,Kelantan,assault,all,188
+652,Machang,2020,Kelantan,assault,all,161
+653,Machang,2021,Kelantan,assault,all,110
+654,Machang,2022,Kelantan,assault,all,136
+655,Machang,2023,Kelantan,assault,all,106
+656,Manjung,2016,Perak,assault,all,679
+657,Manjung,2017,Perak,assault,all,622
+658,Manjung,2018,Perak,assault,all,614
+659,Manjung,2019,Perak,assault,all,502
+660,Manjung,2020,Perak,assault,all,372
+661,Manjung,2021,Perak,assault,all,290
+662,Manjung,2022,Perak,assault,all,246
+663,Manjung,2023,Perak,assault,all,280
+664,Maran,2016,Pahang,assault,all,263
+665,Maran,2017,Pahang,assault,all,254
+666,Maran,2018,Pahang,assault,all,252
+667,Maran,2019,Pahang,assault,all,241
+668,Maran,2020,Pahang,assault,all,163
+669,Maran,2021,Pahang,assault,all,149
+670,Maran,2022,Pahang,assault,all,125
+671,Maran,2023,Pahang,assault,all,130
+672,Marang,2016,Terengganu,assault,all,191
+673,Marang,2017,Terengganu,assault,all,172
+674,Marang,2018,Terengganu,assault,all,140
+675,Marang,2019,Terengganu,assault,all,135
+676,Marang,2020,Terengganu,assault,all,180
+677,Marang,2021,Terengganu,assault,all,148
+678,Marang,2022,Terengganu,assault,all,108
+679,Marang,2023,Terengganu,assault,all,102
+680,Marudi,2016,Sarawak,assault,all,76
+681,Marudi,2017,Sarawak,assault,all,60
+682,Marudi,2018,Sarawak,assault,all,122
+683,Marudi,2019,Sarawak,assault,all,77
+684,Marudi,2020,Sarawak,assault,all,70
+685,Marudi,2021,Sarawak,assault,all,63
+686,Marudi,2022,Sarawak,assault,all,66
+687,Marudi,2023,Sarawak,assault,all,76
+688,Matu Daro,2016,Sarawak,assault,all,27
+689,Matu Daro,2017,Sarawak,assault,all,25
+690,Matu Daro,2018,Sarawak,assault,all,34
+691,Matu Daro,2019,Sarawak,assault,all,26
+692,Matu Daro,2020,Sarawak,assault,all,26
+693,Matu Daro,2021,Sarawak,assault,all,19
+694,Matu Daro,2022,Sarawak,assault,all,21
+695,Matu Daro,2023,Sarawak,assault,all,40
+696,Melaka Tengah,2016,Melaka,assault,all,2974
+697,Melaka Tengah,2017,Melaka,assault,all,2463
+698,Melaka Tengah,2018,Melaka,assault,all,2236
+699,Melaka Tengah,2019,Melaka,assault,all,1979
+700,Melaka Tengah,2020,Melaka,assault,all,1356
+701,Melaka Tengah,2021,Melaka,assault,all,899
+702,Melaka Tengah,2022,Melaka,assault,all,874
+703,Melaka Tengah,2023,Melaka,assault,all,984
+704,Meradong,2016,Sarawak,assault,all,35
+705,Meradong,2017,Sarawak,assault,all,37
+706,Meradong,2018,Sarawak,assault,all,67
+707,Meradong,2019,Sarawak,assault,all,59
+708,Meradong,2020,Sarawak,assault,all,50
+709,Meradong,2021,Sarawak,assault,all,26
+710,Meradong,2022,Sarawak,assault,all,22
+711,Meradong,2023,Sarawak,assault,all,48
+712,Mersing,2016,Johor,assault,all,154
+713,Mersing,2017,Johor,assault,all,151
+714,Mersing,2018,Johor,assault,all,129
+715,Mersing,2019,Johor,assault,all,142
+716,Mersing,2020,Johor,assault,all,106
+717,Mersing,2021,Johor,assault,all,94
+718,Mersing,2022,Johor,assault,all,85
+719,Mersing,2023,Johor,assault,all,87
+720,Miri,2016,Sarawak,assault,all,1159
+721,Miri,2017,Sarawak,assault,all,978
+722,Miri,2018,Sarawak,assault,all,895
+723,Miri,2019,Sarawak,assault,all,970
+724,Miri,2020,Sarawak,assault,all,1051
+725,Miri,2021,Sarawak,assault,all,569
+726,Miri,2022,Sarawak,assault,all,276
+727,Miri,2023,Sarawak,assault,all,292
+728,Muar,2016,Johor,assault,all,354
+729,Muar,2017,Johor,assault,all,298
+730,Muar,2018,Johor,assault,all,296
+731,Muar,2019,Johor,assault,all,306
+732,Muar,2020,Johor,assault,all,269
+733,Muar,2021,Johor,assault,all,213
+734,Muar,2022,Johor,assault,all,222
+735,Muar,2023,Johor,assault,all,332
+736,Mukah,2016,Sarawak,assault,all,81
+737,Mukah,2017,Sarawak,assault,all,84
+738,Mukah,2018,Sarawak,assault,all,96
+739,Mukah,2019,Sarawak,assault,all,97
+740,Mukah,2020,Sarawak,assault,all,61
+741,Mukah,2021,Sarawak,assault,all,55
+742,Mukah,2022,Sarawak,assault,all,38
+743,Mukah,2023,Sarawak,assault,all,50
+744,Nilai,2016,Negeri Sembilan,assault,all,1244
+745,Nilai,2017,Negeri Sembilan,assault,all,1169
+746,Nilai,2018,Negeri Sembilan,assault,all,983
+747,Nilai,2019,Negeri Sembilan,assault,all,928
+748,Nilai,2020,Negeri Sembilan,assault,all,653
+749,Nilai,2021,Negeri Sembilan,assault,all,414
+750,Nilai,2022,Negeri Sembilan,assault,all,365
+751,Nilai,2023,Negeri Sembilan,assault,all,409
+752,Nusajaya,2016,Johor,assault,all,981
+753,Nusajaya,2017,Johor,assault,all,4
+754,Nusajaya,2018,Johor,assault,all,0
+755,Nusajaya,2019,Johor,assault,all,0
+756,Nusajaya,2020,Johor,assault,all,0
+757,Nusajaya,2021,Johor,assault,all,1
+758,Nusajaya,2022,Johor,assault,all,0
+759,Nusajaya,2023,Johor,assault,all,0
+760,Padang Besar,2016,Perlis,assault,all,87
+761,Padang Besar,2017,Perlis,assault,all,108
+762,Padang Besar,2018,Perlis,assault,all,75
+763,Padang Besar,2019,Perlis,assault,all,72
+764,Padang Besar,2020,Perlis,assault,all,65
+765,Padang Besar,2021,Perlis,assault,all,62
+766,Padang Besar,2022,Perlis,assault,all,100
+767,Padang Besar,2023,Perlis,assault,all,68
+768,Padang Terap,2016,Kedah,assault,all,107
+769,Padang Terap,2017,Kedah,assault,all,121
+770,Padang Terap,2018,Kedah,assault,all,116
+771,Padang Terap,2019,Kedah,assault,all,97
+772,Padang Terap,2020,Kedah,assault,all,75
+773,Padang Terap,2021,Kedah,assault,all,80
+774,Padang Terap,2022,Kedah,assault,all,108
+775,Padang Terap,2023,Kedah,assault,all,121
+776,Padawan,2016,Sarawak,assault,all,906
+777,Padawan,2017,Sarawak,assault,all,908
+778,Padawan,2018,Sarawak,assault,all,780
+779,Padawan,2019,Sarawak,assault,all,783
+780,Padawan,2020,Sarawak,assault,all,803
+781,Padawan,2021,Sarawak,assault,all,772
+782,Padawan,2022,Sarawak,assault,all,708
+783,Padawan,2023,Sarawak,assault,all,737
+784,Papar,2016,Sabah,assault,all,132
+785,Papar,2017,Sabah,assault,all,287
+786,Papar,2018,Sabah,assault,all,336
+787,Papar,2019,Sabah,assault,all,342
+788,Papar,2020,Sabah,assault,all,155
+789,Papar,2021,Sabah,assault,all,103
+790,Papar,2022,Sabah,assault,all,103
+791,Papar,2023,Sabah,assault,all,151
+792,Pasir Mas,2016,Kelantan,assault,all,511
+793,Pasir Mas,2017,Kelantan,assault,all,482
+794,Pasir Mas,2018,Kelantan,assault,all,426
+795,Pasir Mas,2019,Kelantan,assault,all,400
+796,Pasir Mas,2020,Kelantan,assault,all,215
+797,Pasir Mas,2021,Kelantan,assault,all,157
+798,Pasir Mas,2022,Kelantan,assault,all,168
+799,Pasir Mas,2023,Kelantan,assault,all,139
+800,Pasir Puteh,2016,Kelantan,assault,all,405
+801,Pasir Puteh,2017,Kelantan,assault,all,398
+802,Pasir Puteh,2018,Kelantan,assault,all,390
+803,Pasir Puteh,2019,Kelantan,assault,all,328
+804,Pasir Puteh,2020,Kelantan,assault,all,280
+805,Pasir Puteh,2021,Kelantan,assault,all,223
+806,Pasir Puteh,2022,Kelantan,assault,all,231
+807,Pasir Puteh,2023,Kelantan,assault,all,179
+808,Pekan,2016,Pahang,assault,all,170
+809,Pekan,2017,Pahang,assault,all,171
+810,Pekan,2018,Pahang,assault,all,142
+811,Pekan,2019,Pahang,assault,all,198
+812,Pekan,2020,Pahang,assault,all,183
+813,Pekan,2021,Pahang,assault,all,155
+814,Pekan,2022,Pahang,assault,all,109
+815,Pekan,2023,Pahang,assault,all,98
+816,Penampang,2016,Sabah,assault,all,431
+817,Penampang,2017,Sabah,assault,all,613
+818,Penampang,2018,Sabah,assault,all,604
+819,Penampang,2019,Sabah,assault,all,563
+820,Penampang,2020,Sabah,assault,all,289
+821,Penampang,2021,Sabah,assault,all,241
+822,Penampang,2022,Sabah,assault,all,266
+823,Penampang,2023,Sabah,assault,all,260
+824,Pendang,2016,Kedah,assault,all,244
+825,Pendang,2017,Kedah,assault,all,237
+826,Pendang,2018,Kedah,assault,all,237
+827,Pendang,2019,Kedah,assault,all,232
+828,Pendang,2020,Kedah,assault,all,214
+829,Pendang,2021,Kedah,assault,all,153
+830,Pendang,2022,Kedah,assault,all,206
+831,Pendang,2023,Kedah,assault,all,201
+832,Pengkalan Hulu,2016,Perak,assault,all,27
+833,Pengkalan Hulu,2017,Perak,assault,all,15
+834,Pengkalan Hulu,2018,Perak,assault,all,13
+835,Pengkalan Hulu,2019,Perak,assault,all,13
+836,Pengkalan Hulu,2020,Perak,assault,all,10
+837,Pengkalan Hulu,2021,Perak,assault,all,10
+838,Pengkalan Hulu,2022,Perak,assault,all,11
+839,Pengkalan Hulu,2023,Perak,assault,all,16
+840,Perak Tengah,2016,Perak,assault,all,207
+841,Perak Tengah,2017,Perak,assault,all,140
+842,Perak Tengah,2018,Perak,assault,all,92
+843,Perak Tengah,2019,Perak,assault,all,115
+844,Perak Tengah,2020,Perak,assault,all,104
+845,Perak Tengah,2021,Perak,assault,all,94
+846,Perak Tengah,2022,Perak,assault,all,108
+847,Perak Tengah,2023,Perak,assault,all,143
+848,Petaling Jaya,2016,Selangor,assault,all,5005
+849,Petaling Jaya,2017,Selangor,assault,all,4215
+850,Petaling Jaya,2018,Selangor,assault,all,3363
+851,Petaling Jaya,2019,Selangor,assault,all,3116
+852,Petaling Jaya,2020,Selangor,assault,all,2601
+853,Petaling Jaya,2021,Selangor,assault,all,1740
+854,Petaling Jaya,2022,Selangor,assault,all,1566
+855,Petaling Jaya,2023,Selangor,assault,all,1472
+856,Pontian,2016,Johor,assault,all,293
+857,Pontian,2017,Johor,assault,all,286
+858,Pontian,2018,Johor,assault,all,283
+859,Pontian,2019,Johor,assault,all,276
+860,Pontian,2020,Johor,assault,all,190
+861,Pontian,2021,Johor,assault,all,115
+862,Pontian,2022,Johor,assault,all,123
+863,Pontian,2023,Johor,assault,all,230
+864,Port Dickson,2016,Negeri Sembilan,assault,all,388
+865,Port Dickson,2017,Negeri Sembilan,assault,all,342
+866,Port Dickson,2018,Negeri Sembilan,assault,all,386
+867,Port Dickson,2019,Negeri Sembilan,assault,all,372
+868,Port Dickson,2020,Negeri Sembilan,assault,all,275
+869,Port Dickson,2021,Negeri Sembilan,assault,all,244
+870,Port Dickson,2022,Negeri Sembilan,assault,all,218
+871,Port Dickson,2023,Negeri Sembilan,assault,all,216
+872,Ranau,2016,Sabah,assault,all,97
+873,Ranau,2017,Sabah,assault,all,73
+874,Ranau,2018,Sabah,assault,all,66
+875,Ranau,2019,Sabah,assault,all,97
+876,Ranau,2020,Sabah,assault,all,57
+877,Ranau,2021,Sabah,assault,all,59
+878,Ranau,2022,Sabah,assault,all,74
+879,Ranau,2023,Sabah,assault,all,79
+880,Raub,2016,Pahang,assault,all,117
+881,Raub,2017,Pahang,assault,all,125
+882,Raub,2018,Pahang,assault,all,113
+883,Raub,2019,Pahang,assault,all,109
+884,Raub,2020,Pahang,assault,all,91
+885,Raub,2021,Pahang,assault,all,67
+886,Raub,2022,Pahang,assault,all,91
+887,Raub,2023,Pahang,assault,all,96
+888,Rembau,2016,Negeri Sembilan,assault,all,171
+889,Rembau,2017,Negeri Sembilan,assault,all,154
+890,Rembau,2018,Negeri Sembilan,assault,all,158
+891,Rembau,2019,Negeri Sembilan,assault,all,119
+892,Rembau,2020,Negeri Sembilan,assault,all,63
+893,Rembau,2021,Negeri Sembilan,assault,all,60
+894,Rembau,2022,Negeri Sembilan,assault,all,59
+895,Rembau,2023,Negeri Sembilan,assault,all,64
+896,Rompin,2016,Pahang,assault,all,297
+897,Rompin,2017,Pahang,assault,all,224
+898,Rompin,2018,Pahang,assault,all,179
+899,Rompin,2019,Pahang,assault,all,161
+900,Rompin,2020,Pahang,assault,all,119
+901,Rompin,2021,Pahang,assault,all,135
+902,Rompin,2022,Pahang,assault,all,116
+903,Rompin,2023,Pahang,assault,all,133
+904,Sabak Bernam,2016,Selangor,assault,all,419
+905,Sabak Bernam,2017,Selangor,assault,all,397
+906,Sabak Bernam,2018,Selangor,assault,all,359
+907,Sabak Bernam,2019,Selangor,assault,all,320
+908,Sabak Bernam,2020,Selangor,assault,all,265
+909,Sabak Bernam,2021,Selangor,assault,all,179
+910,Sabak Bernam,2022,Selangor,assault,all,150
+911,Sabak Bernam,2023,Selangor,assault,all,164
+912,Sandakan,2016,Sabah,assault,all,476
+913,Sandakan,2017,Sabah,assault,all,633
+914,Sandakan,2018,Sabah,assault,all,636
+915,Sandakan,2019,Sabah,assault,all,607
+916,Sandakan,2020,Sabah,assault,all,530
+917,Sandakan,2021,Sabah,assault,all,487
+918,Sandakan,2022,Sabah,assault,all,568
+919,Sandakan,2023,Sabah,assault,all,541
+920,Saratok,2016,Sarawak,assault,all,32
+921,Saratok,2017,Sarawak,assault,all,34
+922,Saratok,2018,Sarawak,assault,all,25
+923,Saratok,2019,Sarawak,assault,all,33
+924,Saratok,2020,Sarawak,assault,all,55
+925,Saratok,2021,Sarawak,assault,all,39
+926,Saratok,2022,Sarawak,assault,all,41
+927,Saratok,2023,Sarawak,assault,all,49
+928,Sarikei,2016,Sarawak,assault,all,206
+929,Sarikei,2017,Sarawak,assault,all,177
+930,Sarikei,2018,Sarawak,assault,all,158
+931,Sarikei,2019,Sarawak,assault,all,160
+932,Sarikei,2020,Sarawak,assault,all,153
+933,Sarikei,2021,Sarawak,assault,all,72
+934,Sarikei,2022,Sarawak,assault,all,75
+935,Sarikei,2023,Sarawak,assault,all,72
+936,Seberang Perai Selatan,2016,Pulau Pinang,assault,all,505
+937,Seberang Perai Selatan,2017,Pulau Pinang,assault,all,473
+938,Seberang Perai Selatan,2018,Pulau Pinang,assault,all,416
+939,Seberang Perai Selatan,2019,Pulau Pinang,assault,all,460
+940,Seberang Perai Selatan,2020,Pulau Pinang,assault,all,304
+941,Seberang Perai Selatan,2021,Pulau Pinang,assault,all,332
+942,Seberang Perai Selatan,2022,Pulau Pinang,assault,all,314
+943,Seberang Perai Selatan,2023,Pulau Pinang,assault,all,335
+944,Seberang Perai Tengah,2016,Pulau Pinang,assault,all,2210
+945,Seberang Perai Tengah,2017,Pulau Pinang,assault,all,1903
+946,Seberang Perai Tengah,2018,Pulau Pinang,assault,all,1744
+947,Seberang Perai Tengah,2019,Pulau Pinang,assault,all,1951
+948,Seberang Perai Tengah,2020,Pulau Pinang,assault,all,1299
+949,Seberang Perai Tengah,2021,Pulau Pinang,assault,all,1219
+950,Seberang Perai Tengah,2022,Pulau Pinang,assault,all,928
+951,Seberang Perai Tengah,2023,Pulau Pinang,assault,all,925
+952,Seberang Perai Utara,2016,Pulau Pinang,assault,all,1154
+953,Seberang Perai Utara,2017,Pulau Pinang,assault,all,1107
+954,Seberang Perai Utara,2018,Pulau Pinang,assault,all,1003
+955,Seberang Perai Utara,2019,Pulau Pinang,assault,all,943
+956,Seberang Perai Utara,2020,Pulau Pinang,assault,all,714
+957,Seberang Perai Utara,2021,Pulau Pinang,assault,all,710
+958,Seberang Perai Utara,2022,Pulau Pinang,assault,all,689
+959,Seberang Perai Utara,2023,Pulau Pinang,assault,all,696
+960,Segamat,2016,Johor,assault,all,352
+961,Segamat,2017,Johor,assault,all,370
+962,Segamat,2018,Johor,assault,all,360
+963,Segamat,2019,Johor,assault,all,345
+964,Segamat,2020,Johor,assault,all,287
+965,Segamat,2021,Johor,assault,all,198
+966,Segamat,2022,Johor,assault,all,176
+967,Segamat,2023,Johor,assault,all,182
+968,Selama,2016,Perak,assault,all,39
+969,Selama,2017,Perak,assault,all,26
+970,Selama,2018,Perak,assault,all,33
+971,Selama,2019,Perak,assault,all,40
+972,Selama,2020,Perak,assault,all,29
+973,Selama,2021,Perak,assault,all,32
+974,Selama,2022,Perak,assault,all,33
+975,Selama,2023,Perak,assault,all,45
+976,Semporna,2016,Sabah,assault,all,235
+977,Semporna,2017,Sabah,assault,all,359
+978,Semporna,2018,Sabah,assault,all,409
+979,Semporna,2019,Sabah,assault,all,351
+980,Semporna,2020,Sabah,assault,all,242
+981,Semporna,2021,Sabah,assault,all,269
+982,Semporna,2022,Sabah,assault,all,169
+983,Semporna,2023,Sabah,assault,all,220
+984,Sentul,2016,W.P. Kuala Lumpur,assault,all,2925
+985,Sentul,2017,W.P. Kuala Lumpur,assault,all,2847
+986,Sentul,2018,W.P. Kuala Lumpur,assault,all,2510
+987,Sentul,2019,W.P. Kuala Lumpur,assault,all,2515
+988,Sentul,2020,W.P. Kuala Lumpur,assault,all,1849
+989,Sentul,2021,W.P. Kuala Lumpur,assault,all,1545
+990,Sentul,2022,W.P. Kuala Lumpur,assault,all,1164
+991,Sentul,2023,W.P. Kuala Lumpur,assault,all,1101
+992,Sepang,2016,Selangor,assault,all,1173
+993,Sepang,2017,Selangor,assault,all,782
+994,Sepang,2018,Selangor,assault,all,703
+995,Sepang,2019,Selangor,assault,all,678
+996,Sepang,2020,Selangor,assault,all,571
+997,Sepang,2021,Selangor,assault,all,550
+998,Sepang,2022,Selangor,assault,all,627
+999,Sepang,2023,Selangor,assault,all,712
+1000,Serdang,2016,Selangor,assault,all,2591
+1001,Serdang,2017,Selangor,assault,all,1820
+1002,Serdang,2018,Selangor,assault,all,1666
+1003,Serdang,2019,Selangor,assault,all,1584
+1004,Serdang,2020,Selangor,assault,all,1583
+1005,Serdang,2021,Selangor,assault,all,1468
+1006,Serdang,2022,Selangor,assault,all,1038
+1007,Serdang,2023,Selangor,assault,all,953
+1008,Seremban,2016,Negeri Sembilan,assault,all,1741
+1009,Seremban,2017,Negeri Sembilan,assault,all,1530
+1010,Seremban,2018,Negeri Sembilan,assault,all,1428
+1011,Seremban,2019,Negeri Sembilan,assault,all,1273
+1012,Seremban,2020,Negeri Sembilan,assault,all,879
+1013,Seremban,2021,Negeri Sembilan,assault,all,684
+1014,Seremban,2022,Negeri Sembilan,assault,all,698
+1015,Seremban,2023,Negeri Sembilan,assault,all,762
+1016,Seri Alam,2016,Johor,assault,all,1801
+1017,Seri Alam,2017,Johor,assault,all,1474
+1018,Seri Alam,2018,Johor,assault,all,1384
+1019,Seri Alam,2019,Johor,assault,all,1490
+1020,Seri Alam,2020,Johor,assault,all,1315
+1021,Seri Alam,2021,Johor,assault,all,889
+1022,Seri Alam,2022,Johor,assault,all,783
+1023,Seri Alam,2023,Johor,assault,all,871
+1024,Serian,2016,Sarawak,assault,all,130
+1025,Serian,2017,Sarawak,assault,all,145
+1026,Serian,2018,Sarawak,assault,all,121
+1027,Serian,2019,Sarawak,assault,all,122
+1028,Serian,2020,Sarawak,assault,all,95
+1029,Serian,2021,Sarawak,assault,all,102
+1030,Serian,2022,Sarawak,assault,all,135
+1031,Serian,2023,Sarawak,assault,all,117
+1032,Setiu,2016,Terengganu,assault,all,109
+1033,Setiu,2017,Terengganu,assault,all,109
+1034,Setiu,2018,Terengganu,assault,all,107
+1035,Setiu,2019,Terengganu,assault,all,104
+1036,Setiu,2020,Terengganu,assault,all,78
+1037,Setiu,2021,Terengganu,assault,all,43
+1038,Setiu,2022,Terengganu,assault,all,51
+1039,Setiu,2023,Terengganu,assault,all,40
+1040,Sg. Buloh,2016,Selangor,assault,all,1490
+1041,Sg. Buloh,2017,Selangor,assault,all,1300
+1042,Sg. Buloh,2018,Selangor,assault,all,1078
+1043,Sg. Buloh,2019,Selangor,assault,all,984
+1044,Sg. Buloh,2020,Selangor,assault,all,694
+1045,Shah Alam,2016,Selangor,assault,all,1904
+1046,Shah Alam,2017,Selangor,assault,all,1611
+1047,Shah Alam,2018,Selangor,assault,all,1399
+1048,Shah Alam,2019,Selangor,assault,all,1112
+1049,Shah Alam,2020,Selangor,assault,all,866
+1050,Shah Alam,2021,Selangor,assault,all,853
+1051,Shah Alam,2022,Selangor,assault,all,782
+1052,Shah Alam,2023,Selangor,assault,all,792
+1053,Sibu,2016,Sarawak,assault,all,810
+1054,Sibu,2017,Sarawak,assault,all,756
+1055,Sibu,2018,Sarawak,assault,all,697
+1056,Sibu,2019,Sarawak,assault,all,907
+1057,Sibu,2020,Sarawak,assault,all,806
+1058,Sibu,2021,Sarawak,assault,all,534
+1059,Sibu,2022,Sarawak,assault,all,438
+1060,Sibu,2023,Sarawak,assault,all,518
+1061,Sik,2016,Kedah,assault,all,106
+1062,Sik,2017,Kedah,assault,all,66
+1063,Sik,2018,Kedah,assault,all,70
+1064,Sik,2019,Kedah,assault,all,60
+1065,Sik,2020,Kedah,assault,all,42
+1066,Sik,2021,Kedah,assault,all,36
+1067,Sik,2022,Kedah,assault,all,54
+1068,Sik,2023,Kedah,assault,all,53
+1069,Simunjan,2016,Sarawak,assault,all,53
+1070,Simunjan,2017,Sarawak,assault,all,34
+1071,Simunjan,2018,Sarawak,assault,all,39
+1072,Simunjan,2019,Sarawak,assault,all,56
+1073,Simunjan,2020,Sarawak,assault,all,39
+1074,Simunjan,2021,Sarawak,assault,all,32
+1075,Simunjan,2022,Sarawak,assault,all,36
+1076,Simunjan,2023,Sarawak,assault,all,46
+1077,Sipitang,2016,Sabah,assault,all,118
+1078,Sipitang,2017,Sabah,assault,all,102
+1079,Sipitang,2018,Sabah,assault,all,99
+1080,Sipitang,2019,Sabah,assault,all,99
+1081,Sipitang,2020,Sabah,assault,all,44
+1082,Sipitang,2021,Sabah,assault,all,54
+1083,Sipitang,2022,Sabah,assault,all,31
+1084,Sipitang,2023,Sabah,assault,all,22
+1085,Song,2016,Sarawak,assault,all,7
+1086,Song,2017,Sarawak,assault,all,7
+1087,Song,2018,Sarawak,assault,all,12
+1088,Song,2019,Sarawak,assault,all,7
+1089,Song,2020,Sarawak,assault,all,10
+1090,Song,2021,Sarawak,assault,all,7
+1091,Song,2022,Sarawak,assault,all,12
+1092,Song,2023,Sarawak,assault,all,9
+1093,Sri Aman,2016,Sarawak,assault,all,118
+1094,Sri Aman,2017,Sarawak,assault,all,116
+1095,Sri Aman,2018,Sarawak,assault,all,99
+1096,Sri Aman,2019,Sarawak,assault,all,108
+1097,Sri Aman,2020,Sarawak,assault,all,105
+1098,Sri Aman,2021,Sarawak,assault,all,92
+1099,Sri Aman,2022,Sarawak,assault,all,110
+1100,Sri Aman,2023,Sarawak,assault,all,84
+1101,Subang Jaya,2016,Selangor,assault,all,2077
+1102,Subang Jaya,2017,Selangor,assault,all,1465
+1103,Subang Jaya,2018,Selangor,assault,all,1238
+1104,Subang Jaya,2019,Selangor,assault,all,1116
+1105,Subang Jaya,2020,Selangor,assault,all,1064
+1106,Subang Jaya,2021,Selangor,assault,all,776
+1107,Subang Jaya,2022,Selangor,assault,all,777
+1108,Subang Jaya,2023,Selangor,assault,all,886
+1109,Sungai Buloh,2021,Selangor,assault,all,624
+1110,Sungai Buloh,2022,Selangor,assault,all,607
+1111,Sungai Buloh,2023,Selangor,assault,all,695
+1112,Sungai Siput,2016,Perak,assault,all,133
+1113,Sungai Siput,2017,Perak,assault,all,135
+1114,Sungai Siput,2018,Perak,assault,all,119
+1115,Sungai Siput,2019,Perak,assault,all,115
+1116,Sungai Siput,2020,Perak,assault,all,88
+1117,Sungai Siput,2021,Perak,assault,all,55
+1118,Sungai Siput,2022,Perak,assault,all,79
+1119,Sungai Siput,2023,Perak,assault,all,78
+1120,Taiping,2016,Perak,assault,all,796
+1121,Taiping,2017,Perak,assault,all,731
+1122,Taiping,2018,Perak,assault,all,739
+1123,Taiping,2019,Perak,assault,all,682
+1124,Taiping,2020,Perak,assault,all,480
+1125,Taiping,2021,Perak,assault,all,338
+1126,Taiping,2022,Perak,assault,all,349
+1127,Taiping,2023,Perak,assault,all,351
+1128,Tampin,2016,Negeri Sembilan,assault,all,294
+1129,Tampin,2017,Negeri Sembilan,assault,all,210
+1130,Tampin,2018,Negeri Sembilan,assault,all,212
+1131,Tampin,2019,Negeri Sembilan,assault,all,163
+1132,Tampin,2020,Negeri Sembilan,assault,all,132
+1133,Tampin,2021,Negeri Sembilan,assault,all,114
+1134,Tampin,2022,Negeri Sembilan,assault,all,107
+1135,Tampin,2023,Negeri Sembilan,assault,all,64
+1136,Tanah Merah,2016,Kelantan,assault,all,270
+1137,Tanah Merah,2017,Kelantan,assault,all,264
+1138,Tanah Merah,2018,Kelantan,assault,all,216
+1139,Tanah Merah,2019,Kelantan,assault,all,230
+1140,Tanah Merah,2020,Kelantan,assault,all,175
+1141,Tanah Merah,2021,Kelantan,assault,all,139
+1142,Tanah Merah,2022,Kelantan,assault,all,190
+1143,Tanah Merah,2023,Kelantan,assault,all,186
+1144,Tanjong Malim,2016,Perak,assault,all,156
+1145,Tanjong Malim,2017,Perak,assault,all,148
+1146,Tanjong Malim,2018,Perak,assault,all,142
+1147,Tanjong Malim,2019,Perak,assault,all,140
+1148,Tanjong Malim,2020,Perak,assault,all,95
+1149,Tanjong Malim,2021,Perak,assault,all,68
+1150,Tanjong Malim,2022,Perak,assault,all,79
+1151,Tanjong Malim,2023,Perak,assault,all,90
+1152,Tapah,2016,Perak,assault,all,201
+1153,Tapah,2017,Perak,assault,all,183
+1154,Tapah,2018,Perak,assault,all,187
+1155,Tapah,2019,Perak,assault,all,178
+1156,Tapah,2020,Perak,assault,all,134
+1157,Tapah,2021,Perak,assault,all,117
+1158,Tapah,2022,Perak,assault,all,101
+1159,Tapah,2023,Perak,assault,all,157
+1160,Tatau,2016,Sarawak,assault,all,26
+1161,Tatau,2017,Sarawak,assault,all,17
+1162,Tatau,2018,Sarawak,assault,all,29
+1163,Tatau,2019,Sarawak,assault,all,21
+1164,Tatau,2020,Sarawak,assault,all,21
+1165,Tatau,2021,Sarawak,assault,all,13
+1166,Tatau,2022,Sarawak,assault,all,21
+1167,Tatau,2023,Sarawak,assault,all,18
+1168,Tawau,2016,Sabah,assault,all,981
+1169,Tawau,2017,Sabah,assault,all,1007
+1170,Tawau,2018,Sabah,assault,all,900
+1171,Tawau,2019,Sabah,assault,all,890
+1172,Tawau,2020,Sabah,assault,all,432
+1173,Tawau,2021,Sabah,assault,all,353
+1174,Tawau,2022,Sabah,assault,all,757
+1175,Tawau,2023,Sabah,assault,all,795
+1176,Temerloh,2016,Pahang,assault,all,312
+1177,Temerloh,2017,Pahang,assault,all,328
+1178,Temerloh,2018,Pahang,assault,all,298
+1179,Temerloh,2019,Pahang,assault,all,301
+1180,Temerloh,2020,Pahang,assault,all,247
+1181,Temerloh,2021,Pahang,assault,all,198
+1182,Temerloh,2022,Pahang,assault,all,181
+1183,Temerloh,2023,Pahang,assault,all,205
+1184,Tenom,2016,Sabah,assault,all,52
+1185,Tenom,2017,Sabah,assault,all,46
+1186,Tenom,2018,Sabah,assault,all,51
+1187,Tenom,2019,Sabah,assault,all,38
+1188,Tenom,2020,Sabah,assault,all,23
+1189,Tenom,2021,Sabah,assault,all,36
+1190,Tenom,2022,Sabah,assault,all,40
+1191,Tenom,2023,Sabah,assault,all,55
+1192,Timur Laut,2016,Pulau Pinang,assault,all,1709
+1193,Timur Laut,2017,Pulau Pinang,assault,all,1548
+1194,Timur Laut,2018,Pulau Pinang,assault,all,1363
+1195,Timur Laut,2019,Pulau Pinang,assault,all,1356
+1196,Timur Laut,2020,Pulau Pinang,assault,all,1203
+1197,Timur Laut,2021,Pulau Pinang,assault,all,1202
+1198,Timur Laut,2022,Pulau Pinang,assault,all,1180
+1199,Timur Laut,2023,Pulau Pinang,assault,all,1241
+1200,Tuaran,2016,Sabah,assault,all,125
+1201,Tuaran,2017,Sabah,assault,all,124
+1202,Tuaran,2018,Sabah,assault,all,124
+1203,Tuaran,2019,Sabah,assault,all,102
+1204,Tuaran,2020,Sabah,assault,all,71
+1205,Tuaran,2021,Sabah,assault,all,57
+1206,Tuaran,2022,Sabah,assault,all,60
+1207,Tuaran,2023,Sabah,assault,all,69
+1208,Tumpat,2016,Kelantan,assault,all,358
+1209,Tumpat,2017,Kelantan,assault,all,351
+1210,Tumpat,2018,Kelantan,assault,all,330
+1211,Tumpat,2019,Kelantan,assault,all,307
+1212,Tumpat,2020,Kelantan,assault,all,253
+1213,Tumpat,2021,Kelantan,assault,all,183
+1214,Tumpat,2022,Kelantan,assault,all,208
+1215,Tumpat,2023,Kelantan,assault,all,186
+1216,W.P. Labuan,2016,Sabah,assault,all,216
+1217,W.P. Labuan,2017,Sabah,assault,all,204
+1218,W.P. Labuan,2018,Sabah,assault,all,266
+1219,W.P. Labuan,2019,Sabah,assault,all,252
+1220,W.P. Labuan,2020,Sabah,assault,all,185
+1221,W.P. Labuan,2021,Sabah,assault,all,141
+1222,W.P. Labuan,2022,Sabah,assault,all,111
+1223,W.P. Labuan,2023,Sabah,assault,all,128
+1224,W.P. Putrajaya,2016,W.P. Kuala Lumpur,assault,all,838
+1225,W.P. Putrajaya,2017,W.P. Kuala Lumpur,assault,all,255
+1226,W.P. Putrajaya,2018,W.P. Kuala Lumpur,assault,all,211
+1227,W.P. Putrajaya,2019,W.P. Kuala Lumpur,assault,all,246
+1228,W.P. Putrajaya,2020,W.P. Kuala Lumpur,assault,all,131
+1229,W.P. Putrajaya,2021,W.P. Kuala Lumpur,assault,all,91
+1230,W.P. Putrajaya,2022,W.P. Kuala Lumpur,assault,all,84
+1231,W.P. Putrajaya,2023,W.P. Kuala Lumpur,assault,all,70
+1232,Wangsa Maju,2016,W.P. Kuala Lumpur,assault,all,3607
+1233,Wangsa Maju,2017,W.P. Kuala Lumpur,assault,all,2812
+1234,Wangsa Maju,2018,W.P. Kuala Lumpur,assault,all,2326
+1235,Wangsa Maju,2019,W.P. Kuala Lumpur,assault,all,1976
+1236,Wangsa Maju,2020,W.P. Kuala Lumpur,assault,all,1437
+1237,Wangsa Maju,2021,W.P. Kuala Lumpur,assault,all,1081
+1238,Wangsa Maju,2022,W.P. Kuala Lumpur,assault,all,888
+1239,Wangsa Maju,2023,W.P. Kuala Lumpur,assault,all,838
+1240,Yan,2016,Kedah,assault,all,146
+1241,Yan,2017,Kedah,assault,all,140
+1242,Yan,2018,Kedah,assault,all,155
+1243,Yan,2019,Kedah,assault,all,128
+1244,Yan,2020,Kedah,assault,all,102
+1245,Yan,2021,Kedah,assault,all,80
+1246,Yan,2022,Kedah,assault,all,89
+1247,Yan,2023,Kedah,assault,all,96
